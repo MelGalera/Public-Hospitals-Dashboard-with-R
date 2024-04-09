@@ -1,0 +1,698 @@
+state,hospital,LHN,remoteness,beds,peer_group,ED,ES,NAP,hospital name,Phone_ number,Street _address,Suburb,Postcode,State_add,Latitude,Longitude
+ACT,Calvary Health Care Bruce,Australian Capital Territory,Major Cities,286,Public acute group A,Yes,Yes,Yes,Calvary Public Hospital,02 6201 6111,Haydon Drive,Bruce,2617,ACT,-35.253321,149.089654
+ACT,Canberra Hospital,Australian Capital Territory,Major Cities,897,Principal referral,Yes,Yes,Yes,The Canberra Hospital,02 6244 2222,Yamba Drive,Garran,2605,ACT,-35.345777,149.100898
+ACT,QEII Family Centre,Australian Capital Territory,Major Cities,24,Early parenting centres,No,No,No,QEII Family Centre,02 6205 2333,129 Carruthers Street,Curtin,2605,ACT,-35.323284,149.079172
+VIC,Albury Wodonga Health [Albury Campus],Albury Wodonga Health,Inner Regional,158,Public acute group A,Yes,No,Yes,Albury Wodonga Health [Albury Campus],02 6058 4444,201 Borella Road,Albury,2640,NSW,-36.078401,146.939146
+NSW,Armidale,Hunter New England,Inner Regional,99.2,Public acute group B,Yes,Yes,Yes,Armidale Hospital,02 6776 9500,226 Rusden Street,Armidale,2350,NSW,-30.512726,151.655629
+NSW,Auburn,Western Sydney,Major Cities,118.2,Public acute group B,Yes,Yes,Yes,Auburn Hospital,02 8759 3000,18-20 Hargrave Road,Auburn,2144,NSW,-33.859867,151.033204
+NSW,Ballina,Northern NSW,Inner Regional,59.4,Public acute group C,Yes,Yes,Yes,Ballina Hospital,02 6686 2111,78-92 Cherry Street,Ballina,2478,NSW,-28.863525,153.564013
+NSW,Balmain,Sydney,Major Cities,84.2,Public acute group D,No,No,Yes,Balmain Hospital,02 9395 2111,29 Booth Street,Balmain,2041,NSW,-33.859469,151.181469
+NSW,Balranald (MPS),Far West,Outer Regional,23.6,Public acute group D,Yes,No,Yes,Balranald Multi Purpose Service,03 5071 9800,41-43 Court Street,Balranald,2715,NSW,-34.644549,143.568413
+NSW,Bankstown/ Lidcombe,South Western Sydney,Major Cities,392.3,Public acute group A,Yes,Yes,Yes,Bankstown Lidcombe Hospital,02 9722 8000,68 Eldridge Road,Bankstown,2200,NSW,-33.933088,151.020823
+NSW,Baradine (MPS),Western NSW,Remote,18,Public acute group D,Yes,No,Yes,Baradine Multi Purpose Service,02 6843 4100,5-9 Macquarie Street,Baradine,2396,NSW,-30.945316,149.066189
+NSW,Barham Koondrook,Murrumbidgee,Outer Regional,6,Public acute group D,Yes,No,Yes,Barham Hospital,03 5451 1000,70 Punt Road,Barham,2732,NSW,-35.623823,144.133479
+NSW,Barraba (MPS),Hunter New England,Outer Regional,22,Public acute group D,Yes,No,Yes,Barraba Multi Purpose Service,02 6782 2500,Edward Street,Barraba,2347,NSW,-30.382482,150.605778
+NSW,Batemans Bay,Southern NSW,Inner Regional,36.3,Public acute group C,Yes,Yes,Yes,Batemans Bay Hospital,02 4475 1500,7 Pacific Street,Batemans Bay,2536,NSW,-35.714055,150.182375
+NSW,Bathurst,Western NSW,Inner Regional,127.8,Public acute group A,Yes,Yes,Yes,Bathurst Health Service,02 6330 5311,361-365 Howick Street,Bathurst,2795,NSW,-33.406512,149.572699
+NSW,Batlow/Adelong (MPS),Murrumbidgee,Outer Regional,24,Very small,Yes,No,Yes,Batlow/Adelong Multi Purpose Service,02 6941 4333,61-81 Pioneer Street,Batlow,2730,NSW,-35.521951,148.147891
+NSW,Bega,Southern NSW,Outer Regional,92.1,Public acute group B,Yes,Yes,Yes,Bega Hospital,02 6491 9999,4 Virginia Drive,Bega,2550,NSW,-36.68802,149.85861
+NSW,Bellinger River,Mid North Coast,Outer Regional,42.4,Public acute group C,Yes,Yes,Yes,Bellinger River District Hospital,02 6659 5800,43 Church Street,Bellingen,2454,NSW,-30.457256,152.893209
+NSW,Belmont,Hunter New England,Major Cities,118.1,Public acute group B,Yes,Yes,Yes,Belmont Hospital,02 4923 2000,16 Croudace Bay Road,Belmont,2280,NSW,-33.024631,151.648181
+NSW,Berrigan (MPS),Murrumbidgee,Outer Regional,14,Public acute group D,Yes,No,Yes,Berrigan Multi Purpose Service,03 5888 5300,137-143 Memorial Place,Berrigan,2712,NSW,-35.662312,145.813035
+NSW,Bingara (MPS),Hunter New England,Outer Regional,21.7,Public acute group D,Yes,No,Yes,Bingara Multi Purpose Service,02 6728 0100,Keera Street,Bingara,2404,NSW,-29.864055,150.579235
+NSW,Blacktown,Western Sydney,Major Cities,432.7,Public acute group A,Yes,Yes,Yes,Blacktown Hospital,02 9881 8000,Blacktown Road,Blacktown,2148,NSW,-33.775552,150.917537
+NSW,Blayney (MPS),Western NSW,Inner Regional,26.7,Very small,Yes,No,Yes,Blayney Multi Purpose Service,02 6368 9000,3 Osman Street,Blayney,2799,NSW,-33.537728,149.248988
+NSW,Blue Mountains,Nepean Blue Mountains,Major Cities,93.3,Public acute group C,Yes,Yes,Yes,Blue Mountains Hospital,02 4784 6500,Lot 3 Woodlands Road,Katoomba,2780,NSW,-33.705329,150.32111
+NSW,Boggabri (MPS),Hunter New England,Outer Regional,21.2,Very small,Yes,No,Yes,Boggabri Multi Purpose Service,02 6749 7000,3 Wee Waa Street,Boggabri,2382,NSW,-30.711502,150.040014
+NSW,Bombala (MPS),Southern NSW,Outer Regional,18,Public acute group D,Yes,No,Yes,Bombala Multi Purpose Service,02 6458 5777,126-128 Wellington Street,Bombala,2632,NSW,-36.917513,149.235372
+NSW,Bonalbo,Northern NSW,Outer Regional,4,Public acute group D,Yes,No,Yes,Bonalbo Hospital,02 6665 1203,Clarence Way,Bonalbo,2469,NSW,-28.733777,152.622789
+NSW,Boorowa (MPS),Murrumbidgee,Inner Regional,18,Public acute group D,Yes,No,Yes,Boorowa Multi Purpose Service,02 6385 3004,62-80 Dry Street,Boorowa,2586,NSW,-34.442822,148.727073
+NSW,Bourke (MPS),Western NSW,Remote,23.9,Public acute group D,Yes,Yes,Yes,Bourke Multi Purpose Service,02 6870 8888,26 Tarcoon Street,Bourke,2840,NSW,-30.092823,145.947983
+NSW,Bourke Street Health Service,Southern NSW,Inner Regional,35.9,Mixed subacute and non-acute,No,No,Yes,Bourke Street Health Service,02 4823 7800,234 Bourke Street,Goulburn,2580,NSW,-34.748721,149.719321
+NSW,Bowral,South Western Sydney,Inner Regional,68.7,Public acute group B,Yes,Yes,Yes,Bowral Hospital,02 4861 0200,Lot 3 Mona Road,Bowral,2576,NSW,-34.485043,150.423796
+NSW,Braeside,South Western Sydney,Major Cities,72,Mixed subacute and non-acute,No,No,Yes,Braeside Hospital,02 9616 8600,340 Prairie Vale Road,Prairiewood,2176,NSW,-33.861917,150.902192
+NSW,Braidwood (MPS),Southern NSW,Inner Regional,30,Public acute group D,Yes,No,Yes,Braidwood Multi Purpose Service,02 4842 2566,77 Monkittee Street,Braidwood,2622,NSW,-35.443216,149.805302
+NSW,Brewarrina (MPS),Western NSW,Very Remote,20,Public acute group D,Yes,No,Yes,Brewarrina Multi Purpose Service,02 6830 5000,56 Doyle Street,Brewarrina,2839,NSW,-29.961627,146.863796
+NSW,Broken Hill,Far West,Outer Regional,91.3,Public acute group B,Yes,Yes,Yes,Broken Hill Hospital,08 8080 1333,176 Thomas Street,Broken Hill,2880,NSW,-31.947609,141.454703
+NSW,Bulahdelah - Myall Lakes,Hunter New England,Inner Regional,,Very small,No,No,Yes,Bulahdelah Hospital,02 4987 9900,Richmond Street,Bulahdelah,2423,NSW,-32.403949,152.210029
+NSW,Bulli,Illawarra Shoalhaven,Major Cities,59.8,Public acute group C,No,No,Yes,Bulli Hospital,02 4284 4344,Hospital Road,Bulli,2516,NSW,-34.336667,150.907344
+NSW,Byron Central Hospital,Northern NSW,Inner Regional,41.7,Public acute group C,Yes,Yes,Yes,Byron Central Hospital,02 6639 9400,54 Ewingsdale Road,Ewingsdale,2481,NSW,-28.637365,153.555898
+NSW,Calvary,South Eastern Sydney,Major Cities,102.5,Rehabilitation and GEM,No,No,Yes,Calvary Hospital,02 9553 3111,91-101 Rocky Point Road,Kogarah,2217,NSW,-33.976132,151.136206
+NSW,Calvary Mater Newcastle,Hunter New England,Major Cities,185.3,Public acute group A,Yes,Yes,Yes,Calvary Mater Newcastle Hospital,02 4921 1211,20 Edith Street,Waratah,2298,NSW,-32.899371,151.720858
+NSW,Camden,South Western Sydney,Major Cities,62.5,Public acute group D,Yes,No,Yes,Camden Hospital,02 4634 3000,65 Menangle Road,Camden,2570,NSW,-34.062702,150.693297
+NSW,Campbell Coraki,Northern NSW,Inner Regional,,Very small,No,No,Yes,Campbell Coraki,02 6683 9000,Surry St,Coraki,2471,NSW,-28.99353,153.27994
+NSW,Campbelltown,South Western Sydney,Major Cities,451.8,Public acute group A,Yes,Yes,Yes,Campbelltown Hospital,02 4634 3000,Therry Road,Campbelltown,2560,NSW,-34.077651,150.806321
+NSW,Canowindra,Western NSW,Inner Regional,10,Public acute group D,Yes,No,Yes,Canowindra Hospital,02 6340 3033,Browns Avenue,Canowindra,2804,NSW,-33.557204,148.676576
+NSW,Canterbury,Sydney,Major Cities,148,Public acute group B,Yes,Yes,Yes,Canterbury Hospital,02 9787 0000,575 Canterbury Road,Campsie,2194,NSW,-33.919592,151.098275
+NSW,Casino,Northern NSW,Inner Regional,29.6,Public acute group C,Yes,Yes,Yes,Casino Hospital,02 6662 2111,Hotham Street,Casino,2470,NSW,-28.859839,153.035827
+NSW,Cessnock,Hunter New England,Inner Regional,49.3,Public acute group C,Yes,Yes,Yes,Cessnock Hospital,02 4991 0555,24 View Street,Cessnock,2325,NSW,-32.827754,151.348396
+NSW,Children's Hospital Westmead,Sydney Children's Hospitals Network,Major Cities,300.9,Childrens,Yes,Yes,Yes,The Children's Hospital at Westmead,02 9845 0000,178 Hawkesbury Road,Westmead,2145,NSW,-33.801554,150.991759
+NSW,Cobar,Western NSW,Remote,10,Public acute group D,Yes,No,Yes,Cobar Health Service,02 6830 2111,Lerida Road,Cobar,2835,NSW,-31.509026,145.825266
+NSW,Coffs Harbour,Mid North Coast,Inner Regional,282.2,Public acute group A,Yes,Yes,Yes,Coffs Harbour Hospital,02 6656 7000,345 Pacific Highway,Coffs Harbour,2450,NSW,-30.317579,153.093667
+NSW,Coledale,Illawarra Shoalhaven,Major Cities,37.7,Mixed subacute and non-acute,No,No,Yes,Coledale Hospital,02 4267 0111,636 Lawrence Hargrave Drive,Coledale,2515,NSW,-34.283797,150.950796
+NSW,Collarenebri (MPS),Western NSW,Remote,13,Very small,Yes,No,Yes,Collarenebri Multi Purpose Service,02 6756 4800,Walgett Street,Collarenebri,2833,NSW,-29.544889,148.581901
+NSW,Concord,Sydney,Major Cities,676.1,Principal referral,Yes,Yes,Yes,Concord Hospital,02 9767 5000,Hospital Road,Concord,2139,NSW,-33.837288,151.092664
+NSW,Condobolin,Western NSW,Outer Regional,22,Public acute group D,Yes,No,Yes,Condobolin Health Service,02 6890 1500,Madline Street,Condobolin,2877,NSW,-33.082332,147.154161
+NSW,Coolah (MPS),Western NSW,Outer Regional,26.1,Public acute group D,Yes,No,Yes,Coolah Multi Purpose Service,02 6377 9100,111-135 Martin Street,Coolah,2843,NSW,-31.821473,149.710049
+NSW,Coolamon (MPS),Murrumbidgee,Inner Regional,14,Public acute group D,Yes,No,Yes,Coolamon Multi Purpose Service,02 6927 3303,Doctor Buchanan Drive,Coolamon,2701,NSW,-34.819885,147.199329
+NSW,Cooma HS,Southern NSW,Inner Regional,33.1,Public acute group C,Yes,Yes,Yes,Cooma Hospital,02 6455 3222,Bent Street,Cooma,2630,NSW,-36.241389,149.130499
+NSW,Coonabarabran,Western NSW,Outer Regional,12.1,Public acute group D,Yes,Yes,Yes,Coonabarabran Health Service,02 6826 6100,101-103 Edwards Street,Coonabarabran,2357,NSW,-31.274791,149.284779
+NSW,Coonamble (MPS),Western NSW,Remote,22.3,Public acute group D,Yes,No,Yes,Coonamble Multi Purpose Service,02 6827 1100,150 Castlereagh Street,Coonamble,2829,NSW,-30.964803,148.387527
+NSW,Cootamundra,Murrumbidgee,Inner Regional,29.9,Public acute group C,Yes,Yes,Yes,Cootamundra Hospital,02 6942 0444,120 Mackay Street,Cootamundra,2590,NSW,-34.634386,148.012796
+NSW,Coral Tree Family Centre,Northern Sydney,Major Cities,10.2,Psychiatric,No,No,No,Coral Tree Family Centre,02 9887 5830,Badajoz And Twin Roads,North Ryde,2113,NSW,-33.804256,151.126212
+NSW,Corowa (MPS),Murrumbidgee,Inner Regional,49.9,Public acute group C,Yes,Yes,Yes,Corowa Hospital,02 6033 1333,74 Guy Street,Corowa,2646,NSW,-35.993528,146.383541
+NSW,Cowra,Western NSW,Inner Regional,39.2,Public acute group C,Yes,Yes,Yes,Cowra Health Service,02 6340 9000,64 Liverpool Street,Cowra,2794,NSW,-33.832137,148.692376
+NSW,Crookwell,Southern NSW,Inner Regional,15,Public acute group D,Yes,No,Yes,Crookwell Hospital,02 4832 1300,17 Kialla Road,Crookwell,2583,NSW,-34.464222,149.467427
+NSW,Culcairn (MPS),Murrumbidgee,Inner Regional,33,Public acute group D,Yes,No,Yes,Culcairn Multi Purpose Service,02 6029 8203,51-55 Balfour Street,Culcairn,2660,NSW,-35.667399,147.042104
+NSW,Cumberland,Western Sydney,Major Cities,222.2,Psychiatric,No,No,No,Cumberland Hospital,02 9840 3000,1-11 Hainsworth Street,Westmead,2145,NSW,-33.80159,150.995246
+NSW,David Berry,Illawarra Shoalhaven,Inner Regional,26.1,Mixed subacute and non-acute,No,No,Yes,David Berry Hospital,02 4464 1001,85 Tannery Road,Berry,2535,NSW,-34.775909,150.712819
+NSW,Delegate (MPS),Southern NSW,Outer Regional,13,Very small,Yes,No,Yes,Delegate Multi Purpose Service,02 6459 8000,15 Craigie Street,Delegate,2633,NSW,-37.04496,148.945958
+NSW,Deniliquin,Murrumbidgee,Inner Regional,35.9,Public acute group C,Yes,Yes,Yes,Deniliquin Hospital,03 5882 2800,411 Charlotte Street,Deniliquin,2710,NSW,-35.524044,144.963301
+NSW,Denman (MPS),Hunter New England,Inner Regional,17,Very small,Yes,No,Yes,Denman Multi Purpose Service,02 6547 3999,51-53 Ogilvie Street,Denman,2328,NSW,-32.389483,150.684453
+NSW,Dorrigo (MPS),Mid North Coast,Outer Regional,27,Public acute group D,Yes,No,Yes,Dorrigo Multi Purpose Service,02 6692 7700,14 Beech Street,Dorrigo,2453,NSW,-30.340625,152.713882
+NSW,Dubbo,Western NSW,Inner Regional,176,Public acute group A,Yes,Yes,Yes,Dubbo Hospital,02 6809 6809,Myall Street,Dubbo,2830,NSW,-32.239339,148.620772
+NSW,Dunedoo (MPS),Western NSW,Outer Regional,29.6,Very small,Yes,No,Yes,Dunedoo Multi Purpose Service,02 6370 3000,70 Digilah Street,Dunedoo,2844,NSW,-32.017204,149.397366
+NSW,Dungog,Hunter New England,Inner Regional,12,Public acute group D,Yes,No,Yes,Dungog Hospital,02 4995 7000,58 Hospital Road,Dungog,2420,NSW,-32.401948,151.746157
+NSW,Eugowra (MPS),Western NSW,Outer Regional,13.8,Very small,No,No,Yes,Eugowra Multipurpose Service,02 6850 4000,Cooper Street,Eugowra,2806,NSW,-33.424421,148.366799
+NSW,Fairfield,South Western Sydney,Major Cities,197.4,Public acute group B,Yes,Yes,Yes,Fairfield Hospital,02 9616 8111,Corner of Polding Street and Prairie Vale Road,Prairiewood,2176,NSW,-33.860117,150.904339
+NSW,Finley,Murrumbidgee,Inner Regional,16,Public acute group D,Yes,No,Yes,Finley Hospital,03 5883 1133,20-22 Dawe Avenue,Finley,2713,NSW,-35.641725,145.568139
+NSW,Forbes,Western NSW,Outer Regional,33.1,Public acute group C,Yes,Yes,Yes,Forbes - Lachlan Health Service,02 6850 7100,4-6 Elgin St,Forbes,2871,NSW,-33.39574,148.01365
+NSW,Gilgandra (MPS),Western NSW,Outer Regional,25.2,Public acute group D,Yes,No,Yes,Gilgandra Multi Purpose Service,02 6880 5900,6 Chelmsford Avenue,Gilgandra,2827,NSW,-31.704565,148.664889
+NSW,Glen Innes,Hunter New England,Outer Regional,37.3,Public acute group C,Yes,Yes,Yes,Glen Innes Hospital,02 6739 0200,94 Taylor Street,Glen Innes,2370,NSW,-29.733293,151.731673
+NSW,Gloucester,Hunter New England,Inner Regional,22.3,Public acute group C,Yes,Yes,Yes,Gloucester Hospital,02 6538 5000,166-182 Church Street,Gloucester,2422,NSW,-32.014787,151.958556
+NSW,Goodooga,Western NSW,Very Remote,,Outpatient hospital,No,No,Yes,Goodooga Health Service,02 6820 6200,49 Hammond Street,Goodooga,2831,NSW,-29.110249,147.456114
+NSW,Gosford,Central Coast,Major Cities,552.4,Public acute group A,Yes,Yes,Yes,Gosford Hospital,02 4320 2111,76 Holden Street,Gosford,2250,NSW,-33.419451,151.340328
+NSW,Goulburn,Southern NSW,Inner Regional,135,Public acute group B,Yes,Yes,Yes,Goulburn Hospital,02 4827 3111,130 Goldsmith Street,Goulburn,2580,NSW,-34.747527,149.712806
+NSW,Gower Wilson (MPS),South Eastern Sydney,Very Remote,,Very small,No,No,Yes,Gower Wilson Multi Purpose Service,02 6563 2000,Lagoon Road,Lord Howe Island,2898,NSW,-31.535603,159.071307
+NSW,Grafton,Northern NSW,Inner Regional,93.3,Public acute group B,Yes,Yes,Yes,Grafton Base Hospital,02 6640 2222,184 Arthur St,Grafton,2460,NSW,-29.66841,152.94199
+NSW,Greenwich,Northern Sydney,Major Cities,38.2,Mixed subacute and non-acute,No,No,Yes,Greenwich Hospital,02 9903 8333,97-115 River Road,Greenwich,2065,NSW,-33.827329,151.183376
+NSW,Grenfell (MPS),Western NSW,Outer Regional,40.5,Very small,Yes,No,Yes,Grenfell Multi Purpose Service,02 6349 1700,80-96 Cowra Road,Grenfell,2810,NSW,-33.894286,148.167843
+NSW,Griffith,Murrumbidgee,Outer Regional,92.9,Public acute group A,Yes,Yes,Yes,Griffith Hospital,02 6969 5555,1 Noorebar Avenue,Griffith,2680,NSW,-34.282121,146.043774
+NSW,Gulargambone (MPS),Western NSW,Outer Regional,9.9,Very small,No,No,Yes,Gulargambone Multi Purpose Service,02 6827 4200,47 Bourbah Street,Gulargambone,2828,NSW,-31.329812,148.469216
+NSW,Gulgong (MPS),Western NSW,Outer Regional,4,Outpatient hospital,Yes,No,Yes,Gulgong Multi Purpose Service,02 6374 3400,34 Goolma Road,Gulgong,2852,NSW,-32.366871,149.521893
+NSW,Gundagai (MPS),Murrumbidgee,Inner Regional,29.9,Public acute group D,Yes,No,Yes,Gundagai Hospital,02 6940 6300,50 Tor Street,Gundagai,2722,NSW,-35.051394,148.101764
+NSW,Gunnedah,Hunter New England,Outer Regional,38.1,Public acute group C,Yes,Yes,Yes,Gunnedah Hospital,02 6741 8000,2 Marquis Street,Gunnedah,2380,NSW,-30.983146,150.251339
+NSW,Guyra (MPS),Hunter New England,Outer Regional,22,Public acute group D,Yes,No,Yes,Guyra Multi Purpose Service,02 6738 4000,44-48 Sole Street,Guyra,2365,NSW,-30.213889,151.679112
+NSW,Hawkesbury,Nepean Blue Mountains,Major Cities,97,Public acute group B,Yes,Yes,Yes,Hawkesbury Hospital,02 4560 5555,2 Day Street,Windsor,2756,NSW,-33.610712,150.820804
+NSW,Hay,Murrumbidgee,Outer Regional,26.8,Public acute group D,Yes,No,Yes,Hay Hospital,02 6990 8700,351 Murray Street,Hay,2711,NSW,-34.500349,144.851433
+NSW,Henty (MPS),Murrumbidgee,Inner Regional,15,Very small,Yes,No,Yes,Henty Multi Purpose Service,02 6929 4999,7 Keighran Street,Henty,2658,NSW,-35.515801,147.031847
+NSW,Hillston (MPS),Murrumbidgee,Remote,5,Public acute group D,Yes,No,Yes,Hillston Hospital,02 6961 7200,48C Burns Street,Hillston,2675,NSW,-33.478793,145.539032
+NSW,Holbrook (MPS),Murrumbidgee,Inner Regional,31.9,Public acute group D,Yes,No,Yes,Holbrook Hospital,02 6036 2522,Bowler Street,Holbrook,2644,NSW,-35.723991,147.320276
+NSW,Hornsby and Ku-Ring-Gai,Northern Sydney,Major Cities,252.8,Public acute group A,Yes,Yes,Yes,Hornsby Ku-ring-gai Hospital,02 9477 9123,36-76 Palmerston Road,Hornsby,2077,NSW,-33.701448,151.112941
+NSW,Hunter New England Mater Mental Health Service,Hunter New England,Major Cities,117.7,Psychiatric,No,No,Yes,Hunter New England Mater Mental Health Service,02 4033 5000,Edith Street,Waratah,2298,NSW,-32.897873,151.720669
+NSW,Illawarra Mental Health Services,Illawarra Shoalhaven,Major Cities,,Unpeered,No,No,No,Illawarra Mental Health Services,02 4254 1500,1-5 Atchison St,Wollongong,2500,NSW,-34.42623,150.891252
+NSW,Inverell,Hunter New England,Outer Regional,49.2,Public acute group C,Yes,Yes,Yes,Inverell Hospital,02 6721 9500,41 Swanbrook Road,Inverell,2360,NSW,-29.770728,151.130139
+NSW,Ivanhoe,Far West,Very Remote,,Outpatient hospital,Yes,No,Yes,Ivanhoe Hospital,02 6990 2200,11 Columbus Street,Ivanhoe,2878,NSW,-32.898193,144.298904
+NSW,Jerilderie (MPS),Murrumbidgee,Outer Regional,15,Public acute group D,Yes,No,Yes,Jerilderie Multi Purpose Service,03 5886 1300,33-39 Southey Street,Jerilderie,2716,NSW,-35.356628,145.720596
+NSW,John Hunter,Hunter New England,Major Cities,878.9,Principal referral,Yes,Yes,Yes,John Hunter Hospital,02 4921 3000,Lookout Road,New Lambton,2305,NSW,-32.922177,151.692438
+NSW,Junee (MPS),Murrumbidgee,Inner Regional,38,Public acute group D,Yes,No,Yes,Junee Multi Purpose Service,02 6924 8200,67 Broadway Street,Junee,2663,NSW,-34.866914,147.581314
+NSW,Justice Health,Justice Health & Forensic Mental Health,Major Cities,308.6,Psychiatric,No,No,Yes,Justice Health Services,02 9700 3000,1300 Anzac Parade,Malabar,2036,NSW,-33.96907,151.243206
+NSW,Karitane Mothercraft Society,South Western Sydney,Major Cities,6.3,Early parenting centres,No,No,Yes,Karitane Mothercraft Society,02 9794 2300,Corner of The Horsley Drive and Mitchell Street,Carramar,2163,NSW,-33.879777,150.965763
+NSW,Kenmore,Southern NSW,Inner Regional,22.5,Psychiatric,No,No,No,Kenmore Hospital,02 4827 3303,Taralga Road,Kenmore,2580,NSW,-34.721253,149.751344
+NSW,Kiama,Illawarra Shoalhaven,Inner Regional,0,Mixed subacute and non-acute,No,No,Yes,Kiama Hospital,02 4233 1033,Bonaira Street,Kiama,2533,NSW,-34.682937,150.850514
+NSW,Kurri Kurri,Hunter New England,Major Cities,57,Public acute group C,Yes,Yes,Yes,Kurri Kurri Hospital,02 4936 3200,432 Lang Street,Kurri Kurri,2327,NSW,-32.825017,151.463018
+NSW,Kyogle (MPS),Northern NSW,Inner Regional,40,Public acute group D,Yes,No,Yes,Kyogle Multi Purpose Service,02 6632 1522,199 Summerland Way,Kyogle,2474,NSW,-28.627124,153.001742
+NSW,Lake Cargelligo (MPS),Murrumbidgee,Remote,22,Public acute group D,Yes,No,Yes,Lake Cargelligo Multi Purpose Service,02 6898 1200,Uabba Street,Lake Cargelligo,2672,NSW,-33.292027,146.374304
+NSW,Leeton,Murrumbidgee,Outer Regional,63,Public acute group C,Yes,No,Yes,Leeton Hospital,02 6953 1111,1 Myall Street,Leeton,2705,NSW,-34.545222,146.408831
+NSW,Lightning Ridge (MPS),Western NSW,Remote,23.4,Public acute group D,Yes,No,Yes,Lightning Ridge Multi Purpose Service,02 6829 9999,Lot 25 Pandora Street,Lightning Ridge,2834,NSW,-29.429973,147.981869
+NSW,Lismore,Northern NSW,Inner Regional,258.2,Public acute group A,Yes,Yes,Yes,Lismore Hospital,02 6621 8000,60 Uralba Street,Lismore,2480,NSW,-28.809191,153.291045
+NSW,Lithgow,Nepean Blue Mountains,Inner Regional,38.7,Public acute group C,Yes,Yes,Yes,Lithgow Hospital,02 6350 2300,2 Col Drewe Drive,Lithgow,2790,NSW,-33.498751,150.127701
+NSW,Liverpool,South Western Sydney,Major Cities,814.8,Principal referral,Yes,Yes,Yes,Liverpool Hospital,02 9828 3000,Lot 2 Elizabeth Street,Liverpool,2170,NSW,-33.919966,150.930776
+NSW,Lockhart (MPS),Murrumbidgee,Outer Regional,4.6,Public acute group D,Yes,No,Yes,Lockhart Hospital,02 6930 7100,53-55 Hebden Street,Lockhart,2656,NSW,-35.222378,146.719064
+NSW,Long Jetty,Central Coast,Major Cities,15,Mixed subacute and non-acute,No,No,Yes,Long Jetty Health Care Centre,02 4336 7700,Wyong Road,Killarney Vale,2261,NSW,-33.369012,151.468538
+NSW,Lourdes Dubbo,Western NSW,Inner Regional,29.3,Rehabilitation and GEM,No,No,Yes,Lourdes Hospital Dubbo,02 6841 8500,80-110 Cobbora Road,Dubbo,2830,NSW,-32.238511,148.627361
+NSW,Macksville,Mid North Coast,Outer Regional,27.7,Public acute group C,Yes,Yes,Yes,Macksville Hospital,02 6568 0666,14-22 Boundary Street,Macksville,2447,NSW,-30.713725,152.919838
+NSW,Maclean,Northern NSW,Inner Regional,43.9,Public acute group C,Yes,No,Yes,Maclean Hospital,02 6640 0111,21 Union Street,Maclean,2463,NSW,-29.454219,153.201094
+NSW,Macleay Valley - Kempsey,Mid North Coast,Inner Regional,66.9,Public acute group B,Yes,Yes,Yes,Macleay Valley - Kempsey District Hospital,02 6561 2600,119 River St,Kempsey,2440,NSW,-31.06735,152.82005
+NSW,Macquarie,Northern Sydney,Major Cities,193.3,Psychiatric,No,No,No,Macquarie Hospital,02 9888 1222,1 Wicks Road,North Ryde,2113,NSW,-33.802312,151.124818
+NSW,Maitland,Hunter New England,Major Cities,178.6,Public acute group B,Yes,Yes,Yes,Maitland Hospital,02 4939 2000,550-560 High Street,Maitland,2320,NSW,-32.726723,151.545887
+NSW,Manilla (MPS),Hunter New England,Outer Regional,42.1,Public acute group D,Yes,No,Yes,Manilla Hospital,02 6785 4000,143 Court Street,Manilla,2346,NSW,-30.745717,150.732249
+NSW,Manly,Northern Sydney,Major Cities,,Public acute group A,No,No,Yes,Manly Hospital,02 9976 9611,150 Darley Road,Manly,2095,NSW,-33.806065,151.294387
+NSW,Manning,Hunter New England,Inner Regional,189.2,Public acute group A,Yes,Yes,Yes,Manning Hospital,02 6592 9111,26 York Street,Taree,2430,NSW,-31.910418,152.454485
+NSW,Menindee Health Service,Far West,Very Remote,,Outpatient hospital,Yes,No,Yes,Menindee Health Service,08 8091 4209,Perry Street,Menindee,2879,NSW,-32.390335,142.414869
+NSW,Mercy Care Centre Albury,Murrumbidgee,Inner Regional,30,Mixed subacute and non-acute,No,No,Yes,Mercy Care Hospital - Albury,02 6042 1400,550 Poole Street,Albury,2640,NSW,-36.069221,146.916764
+NSW,Mercy Care Centre Young,Murrumbidgee,Inner Regional,26,Mixed subacute and non-acute,No,No,Yes,Mercy Care Hospital - Young,02 6382 8444,69 Demondrille Street,Young,2594,NSW,-34.321003,148.288693
+NSW,Merriwa (MPS),Hunter New England,Outer Regional,23,Very small,Yes,No,Yes,Merriwa Multi Purpose Service,02 6532 5000,MacKenzie Street,Merriwa,2329,NSW,-32.142714,150.361316
+NSW,Milton and Ulladulla,Illawarra Shoalhaven,Inner Regional,30.8,Public acute group C,Yes,Yes,Yes,Milton Ulladulla Hospital,02 4455 1333,104-106 Princes Highway,Milton,2538,NSW,-35.317313,150.438918
+NSW,Molong,Western NSW,Inner Regional,10,Public acute group D,Yes,No,Yes,Molong Health Service,02 6392 3300,King Street,Molong,2866,NSW,-33.087622,148.859724
+NSW,Mona Vale,Northern Sydney,Major Cities,67.4,Public acute group A,No,No,Yes,Mona Vale Hospital,02 9998 0333,Coronation Street,Mona Vale,2103,NSW,-33.685353,151.306618
+NSW,Moree,Hunter New England,Outer Regional,38.3,Public acute group C,Yes,Yes,Yes,Moree Hospital,02 6757 0000,Alice Street,Moree,2400,NSW,-29.470678,149.839648
+NSW,Morisset,Hunter New England,Major Cities,102.7,Psychiatric,No,No,No,Morisset Hospital,02 4973 0222,Dora Street,Morisset,2264,NSW,-33.128549,151.512816
+NSW,Moruya,Southern NSW,Inner Regional,62.5,Public acute group C,Yes,Yes,Yes,Moruya Hospital,02 4474 2666,2-10 River Street,Moruya,2537,NSW,-35.904137,150.070774
+NSW,Mount Druitt,Western Sydney,Major Cities,84.6,Public acute group B,Yes,Yes,Yes,Mount Druitt Hospital,02 9881 1555,75 Railway Street,Mount Druitt,2770,NSW,-33.765929,150.829646
+NSW,Mudgee,Western NSW,Inner Regional,28,Public acute group C,Yes,Yes,Yes,Mudgee Health Service,02 6378 6222,Meares Street,Mudgee,2850,NSW,-32.603229,149.588179
+NSW,Murrumburrah - Harden (MPS),Murrumbidgee,Inner Regional,33,Public acute group D,Yes,No,Yes,Murrumburrah-Harden Hospital,02 6386 2200,54 Swift Street,Harden,2587,NSW,-34.555254,148.360186
+NSW,Murrurundi,Hunter New England,Outer Regional,8,Public acute group D,Yes,No,Yes,Wilson Memorial Hospital-Murrurundi Hospital,02 6546 9000,59 O'Connell St,Murrurundi,2338,NSW,-31.76946,150.83473
+NSW,Murwillumbah,Northern NSW,Major Cities,54,Public acute group C,Yes,Yes,Yes,Murwillumbah Hospital,02 6672 1822,8 Ewing Street,Murwillumbah,2484,NSW,-28.323417,153.400811
+NSW,Muswellbrook,Hunter New England,Inner Regional,59.3,Public acute group C,Yes,Yes,Yes,Muswellbrook Hospital,02 6542 2000,36 Brentwood Street,Muswellbrook,2333,NSW,-32.264545,150.900263
+NSW,Narrabri,Hunter New England,Outer Regional,30.6,Public acute group C,Yes,Yes,Yes,Narrabri Hospital,02 6799 2800,11 Cameron Street,Narrabri,2390,NSW,-30.325869,149.777108
+NSW,Narrandera,Murrumbidgee,Outer Regional,20.3,Public acute group C,Yes,Yes,Yes,Narrandera Hospital,02 6951 0200,54 Adams Street,Narrandera,2700,NSW,-34.743181,146.547661
+NSW,Narromine,Western NSW,Outer Regional,10.3,Public acute group D,Yes,No,Yes,Narromine Health Service,02 6889 9600,128 Cathundral Street,Narromine,2821,NSW,-32.24261,148.239201
+NSW,Nepean,Nepean Blue Mountains,Major Cities,584.9,Principal referral,Yes,Yes,Yes,Nepean Hospital,02 4734 2000,Derby Street,Kingswood,2747,NSW,-33.759865,150.712627
+NSW,Neringah,Northern Sydney,Major Cities,15,Mixed subacute and non-acute,No,No,Yes,Neringah Hospital,02 9488 2200,4-12 Neringah Avenue,Wahroonga,2076,NSW,-33.717856,151.114556
+NSW,Nimbin (MPS),Northern NSW,Inner Regional,13.6,Very small,Yes,No,Yes,Nimbin Multi Purpose Service,02 6689 1400,35 Cullen Street,Nimbin,2480,NSW,-28.597371,153.223185
+NSW,Northern Beaches,Northern Sydney,Major Cities,,Public acute group A,Yes,Yes,Yes,Northern Beaches,02 9105 5000,105 Frenchs Forest Rd W,Frenchs Forest,2086,NSW,-33.750646,151.233770
+NSW,NSCCAHS Acute and Post-acute Centre (APAC),Northern Sydney,Major Cities,,Unknown,No,No,No,NSCCAHS Acute and Post-acute Centre (APAC),02 9926 7292,"Level 13, Royal North Shore Hospital",St Leonards,2065,NSW,-33.82083,151.19167
+NSW,Nyngan (MPS),Western NSW,Remote,39.3,Public acute group D,Yes,No,Yes,Nyngan Multi Purpose Service,02 6835 1700,Hospital Road,Nyngan,2825,NSW,-31.560024,147.208772
+NSW,Oberon (MPS),Western NSW,Inner Regional,18,Public acute group D,Yes,No,Yes,Oberon Multi Purpose Service,02 6336 7200,67-73 North Street,Oberon,2787,NSW,-33.705249,149.853596
+NSW,Orange Health Service,Western NSW,Inner Regional,315.1,Public acute group A,Yes,Yes,Yes,Orange Health Service,02 6369 3000,1502 Forest Road,Orange,2800,NSW,-33.3209,149.09505
+NSW,Pambula,Southern NSW,Outer Regional,17.9,Public acute group D,Yes,No,Yes,Pambula Hospital,02 6495 8200,Merimbola Street,Pambula,2549,NSW,-36.926316,149.879232
+NSW,Parkes,Western NSW,Outer Regional,31.6,Public acute group C,Yes,Yes,Yes,Parkes Hospital,02 6861 2400,2 Morrissey Way,Parkes,2870,NSW,-33.15261,148.16989
+NSW,Peak Hill,Western NSW,Outer Regional,4,Very small,Yes,No,Yes,Peak Hill Multipurpose Service,02 6861 7100,111 Newell Highway,Peak Hill,2869,NSW,-32.735907,148.199615
+NSW,Port Kembla,Illawarra Shoalhaven,Major Cities,57,Mixed subacute and non-acute,No,No,Yes,Port Kembla Hospital,02 4223 8000,89-91 Cowper Street,Warrawong,2502,NSW,-34.485923,150.881778
+NSW,Port Macquarie,Mid North Coast,Inner Regional,222,Public acute group A,Yes,Yes,Yes,Port Macquarie Hospital,02 6581 2000,1-31 Wrights Road,Port Macquarie,2444,NSW,-31.452336,152.878304
+NSW,Portland,Nepean Blue Mountains,Inner Regional,26,Very small,No,No,No,Portland Hospital,02 6359 2666,20 Green Street,Portland,2847,NSW,-33.358415,149.978565
+NSW,Prince Albert Tenterfield,Hunter New England,Outer Regional,18,Public acute group D,Yes,No,Yes,Prince Albert Tenterfield Hospital,02 6739 5200,1 Naas St,Tenterfield,2372,NSW,-29.0441,152.01349
+NSW,Prince of Wales,South Eastern Sydney,Major Cities,496.7,Principal referral,Yes,Yes,Yes,Prince of Wales Hospital,02 9382 2222,320-346 Barker Street,Randwick,2031,NSW,-33.918492,151.23938
+NSW,Queanbeyan,Southern NSW,Major Cities,35.4,Public acute group C,Yes,Yes,Yes,Queanbeyan Hospital,02 6150 7000,16 Erin Street,Queanbeyan,2620,NSW,-35.347685,149.232294
+NSW,Quirindi,Hunter New England,Outer Regional,10,Public acute group D,Yes,No,Yes,Quirindi Hospital,02 6746 0200,Nowland Street,Quirindi,2343,NSW,-31.500345,150.676621
+NSW,Riverlands Drug and Alcohol Centre,Northern NSW,Inner Regional,9,Drug and alcohol hospital,No,No,No,Riverlands Drug and Alcohol Centre,02 6620 7600,Hunter Street,Lismore,2480,NSW,-28.80834,153.29112
+NSW,Royal For Women,South Eastern Sydney,Major Cities,101.3,Womens,No,Yes,Yes,Royal Hospital for Women,02 9382 6111,Barker Street,Randwick,2031,NSW,-33.919035,151.237938
+NSW,Royal North Shore,Northern Sydney,Major Cities,688.5,Principal referral,Yes,Yes,Yes,Royal North Shore Hospital,02 9926 7111,1 Reserve Road,St Leonards,2065,NSW,-33.821312,151.189735
+NSW,Royal Prince Alfred,Sydney,Major Cities,772.2,Principal referral,Yes,Yes,Yes,Royal Prince Alfred Hospital,02 9515 6111,50 Missenden Road,Camperdown,2050,NSW,-33.889251,151.182926
+NSW,Royal Rehabilitation,Northern Sydney,Major Cities,47,Rehabilitation and GEM,No,No,Yes,Royal Rehabilitation Hospital,02 9807 1144,227-259 Morrison Road,Ryde,2112,NSW,-33.821772,151.107845
+NSW,RPAH Institute of Rheumatology & Orthopaedics,Sydney,Major Cities,12.4,Other public acute specialised,No,Yes,Yes,Royal Prince Alfred Institute of Rheumatology & Orthopaedics,02 9515 6111,57 - 59 Missenden Road,Camperdown,2050,NSW,-33.88828,151.180707
+NSW,Ryde,Northern Sydney,Major Cities,131.5,Public acute group B,Yes,Yes,Yes,Ryde Hospital,02 9858 7888,Denistone Road,Eastwood,2122,NSW,-33.795482,151.089756
+NSW,Rylstone (MPS),Western NSW,Outer Regional,29.8,Public acute group D,Yes,No,Yes,Rylstone Multi Purpose Service,02 6357 8100,24 Fitzgerald Street,Rylstone,2849,NSW,-32.804085,149.975652
+NSW,Scott Memorial Scone,Hunter New England,Inner Regional,45.2,Public acute group C,Yes,Yes,Yes,Scott Memorial Scone Hospital,02 6540 2100,Stafford St,Scone,2337,NSW,-32.051525,150.876864
+NSW,Shellharbour,Illawarra Shoalhaven,Major Cities,178.8,Public acute group B,Yes,Yes,Yes,Shellharbour Hospital,02 4295 2500,15-17 Madigan Boulevarde,Mount Warrigal,2528,NSW,-34.558987,150.840947
+NSW,Shoalhaven Memorial,Illawarra Shoalhaven,Inner Regional,185.3,Public acute group A,Yes,Yes,Yes,Shoalhaven Memorial Hospital,02 4423 9500,Scenic Dr,Nowra,2541,NSW,-34.868767,150.595736
+NSW,Singleton,Hunter New England,Inner Regional,51.6,Public acute group C,Yes,Yes,Yes,Singleton Hospital,02 6571 9222,Lot 20 Dangar Road,Singleton,2330,NSW,-32.567087,151.185736
+NSW,Springwood,Nepean Blue Mountains,Major Cities,30.5,Public acute group C,No,Yes,Yes,Springwood Hospital,02 4751 0300,7-9 Huntley Grange Road,Springwood,2777,NSW,-33.690486,150.571129
+NSW,St George,South Eastern Sydney,Major Cities,597.2,Principal referral,Yes,Yes,Yes,St George Hospital NSW,02 9113 1111,30 Gray Street,Kogarah,2217,NSW,-33.966969,151.133776
+NSW,St Joseph's Auburn,St Vincent's Health Network,Major Cities,42.9,Mixed subacute and non-acute,No,No,Yes,St Joseph's Hospital,02 9649 8941,Normanby Road,Auburn,2144,NSW,-33.848659,151.028339
+NSW,St Vincent's Darlinghurst,St Vincent's Health Network,Major Cities,350.6,Principal referral,Yes,Yes,Yes,St Vincents Hospital,02 8382 1111,390 Victoria Street,Darlinghurst,2010,NSW,-33.879692,151.221125
+NSW,Sutherland,South Eastern Sydney,Major Cities,334.4,Public acute group A,Yes,Yes,Yes,Sutherland Hospital,02 9540 7111,430 Kingsway,Caringbah,2229,NSW,-34.037288,151.115151
+NSW,Sydney Children's,Sydney Children's Hospitals Network,Major Cities,149.7,Childrens,Yes,Yes,Yes,Sydney Children's Hospital,02 9382 1111,High Street,Randwick,2031,NSW,-33.917179,151.238334
+NSW,Sydney Dental,Sydney,Major Cities,,Unpeered,No,No,Yes,Sydney Dental Hospital,02 9293 3200,2 Chalmers Street,Surry Hills,2010,NSW,-33.884469,151.207811
+NSW,Sydney/ Sydney Eye,South Eastern Sydney,Major Cities,51.6,Public acute group B,Yes,Yes,Yes,Sydney Hospital / Sydney Eye Hospital,02 9382 7111,8 Macquarie Street,Sydney,2000,NSW,-33.867929,151.212575
+NSW,Tamworth,Hunter New England,Inner Regional,327.5,Public acute group A,Yes,Yes,Yes,Tamworth Hospital,02 6767 7700,31 Dean Street,Tamworth,2340,NSW,-31.074079,150.924199
+NSW,Temora,Murrumbidgee,Outer Regional,24.9,Public acute group C,Yes,Yes,Yes,Temora Hospital,02 6980 0200,169 Loftus Street,Temora,2666,NSW,-34.443942,147.542616
+NSW,The Tweed Hospital,Northern NSW,Major Cities,254.6,Public acute group A,Yes,Yes,Yes,The Tweed Hospital,07 5536 1133,14 Powell Street,Tweed Heads,2485,NSW,-28.177216,153.545458
+NSW,Thomas Walker,Sydney,Major Cities,13.7,Psychiatric,No,No,No,Thomas Walker Hospital,02 9736 2288,Hospital Road,Concord West,2138,NSW,-33.832336,151.097897
+NSW,Tibooburra,Far West,Very Remote,,Outpatient hospital,Yes,No,Yes,Tibooburra Hospital,08 8091 3302,Sturt Street,Tibooburra,2880,NSW,-29.433211,142.012817
+NSW,Tingha (MPS),Hunter New England,Outer Regional,9,Outpatient hospital,Yes,No,Yes,Tingha Multi Purpose Service,02 6723 3901,Inverell Road,Tingha,2369,NSW,-29.950779,151.206732
+NSW,Tocumwal,Murrumbidgee,Inner Regional,6,Public acute group D,Yes,No,Yes,Tocumwal Hospital,03 5874 2166,Adams Street,Tocumwal,2714,NSW,-35.815407,145.568996
+NSW,Tomaree Community,Hunter New England,Inner Regional,14,Public acute group D,Yes,No,Yes,Tomaree Hospital,02 4984 0700,2 Trevally Street,Nelson Bay,2315,NSW,-32.720053,152.158858
+NSW,Tottenham (MPS),Western NSW,Remote,10,Very small,Yes,No,Yes,Tottenham Multipurpose Service,02 6891 6200,Lot 10 Moondana Street,Tottenham,2873,NSW,-32.242711,147.358031
+NSW,Trangie (MPS),Western NSW,Outer Regional,20,Very small,Yes,No,Yes,Trangie Multi Purpose Service,02 6880 8200,28 Harris Street,Trangie,2823,NSW,-32.030813,147.976355
+NSW,Tresillian Care Centres,Sydney,Major Cities,62.1,Early parenting centres,No,No,Yes,Tresillian Care Centres,02 9787 0800,McKenzie Street,Belmore,2192,NSW,-33.918732,151.097526
+NSW,Trundle (MPS),Western NSW,Outer Regional,11,Very small,Yes,No,Yes,Trundle Multi Purpose Health Service,02 6892 1051,44 Brookview Street,Trundle,2875,NSW,-32.921078,147.704315
+NSW,Tullamore (MPS),Western NSW,Outer Regional,14,Very small,Yes,No,Yes,Tullamore Multi Purpose Health Service,02 6891 3100,1 Hinkler Street,Tullamore,2874,NSW,-32.635114,147.568997
+NSW,Tumbarumba (MPS),Murrumbidgee,Outer Regional,36.7,Public acute group D,Yes,No,Yes,Tumbarumba Multi Purpose Service,02 6948 9600,4 Mitchell Street,Tumbarumba,2653,NSW,-35.778706,148.006203
+NSW,Tumut,Murrumbidgee,Inner Regional,28.6,Public acute group C,Yes,Yes,Yes,Tumut Hospital,02 6947 0800,105 Simpson Street,Tumut,2720,NSW,-35.307265,148.219552
+NSW,Urana (MPS),Murrumbidgee,Outer Regional,21.7,Very small,Yes,No,Yes,Urana Multi Purpose Service,02 6920 8106,127-129 Princess Street,Urana,2645,NSW,-35.325419,146.267316
+NSW,Urbenville (MPS),Northern NSW,Outer Regional,18,Very small,Yes,No,Yes,Urbenville Multi Purpose Service,02 6634 1600,45 Beaury Street,Urbenville,2475,NSW,-28.471511,152.543029
+NSW,Vegetable Creek (MPS),Hunter New England,Outer Regional,17,Very small,Yes,No,Yes,Vegetable Creek Multi Purpose Service Emmaville,02 6734 7900,13-33 Glen Innes Road,Emmaville,2371,NSW,-29.450547,151.599204
+NSW,Wagga Wagga,Murrumbidgee,Inner Regional,321.9,Public acute group A,Yes,Yes,Yes,Wagga Wagga Hospital,02 5943 1000,260-280 Edward Street,Wagga Wagga,2650,NSW,-35.118083,147.356915
+NSW,Walcha (MPS),Hunter New England,Outer Regional,24,Public acute group D,Yes,No,Yes,Walcha Multi Purpose Service,02 6774 2366,Middle Street,Walcha,2354,NSW,-30.987818,151.591415
+NSW,Walgett (MPS),Western NSW,Remote,16,Public acute group D,Yes,No,Yes,Walgett Multipurpose Service,02 6828 6000,141 Fox Street,Walgett,2832,NSW,-30.030646,148.115959
+NSW,Warialda (MPS),Hunter New England,Outer Regional,25,Public acute group D,Yes,No,Yes,Warialda Multi Purpose Service,02 6728 9000,Long Street,Warialda,2402,NSW,-29.538835,150.579567
+NSW,Warren (MPS),Western NSW,Outer Regional,39.8,Public acute group D,Yes,No,Yes,Warren Multi Purpose Service,02 6847 7200,Lot 176 Dr Kater Drive,Warren,2824,NSW,-31.693958,147.835679
+NSW,Wauchope,Mid North Coast,Inner Regional,23.2,Public acute group C,No,Yes,Yes,Wauchope Hospital,02 6580 8000,69 High Street,Wauchope,2446,NSW,-31.457239,152.728131
+NSW,Waverley War Memorial,South Eastern Sydney,Major Cities,42.9,Rehabilitation and GEM,No,No,Yes,War Memorial Hospital,02 9369 0100,125 Birrell Street,Waverley,2024,NSW,-33.897496,151.253816
+NSW,Wee Waa,Hunter New England,Outer Regional,16,Public acute group D,Yes,No,Yes,Wee Waa Hospital,02 6795 0400,60 Alma Street,Wee Waa,2388,NSW,-30.225439,149.448287
+NSW,Wellington,Western NSW,Outer Regional,12.1,Public acute group D,Yes,No,Yes,Wellington Health Service,02 6840 8200,30 Thornton Street,Wellington,2820,NSW,-32.549741,148.951977
+NSW,Wentworth,Far West,Outer Regional,11.8,Very small,No,No,Yes,Wentworth Hospital,03 5027 7111,Silver City Highway,Wentworth,2648,NSW,-34.109983,141.922481
+NSW,Wentworth Psychiatric Services,Nepean Blue Mountains,Major Cities,11,Unpeered,No,No,No,Wentworth Psychiatric Services,02 4734 2000,Derby Street,Penrith,2750,NSW,-33.760249,150.712613
+NSW,Werris Creek (MPS),Hunter New England,Inner Regional,20,Very small,Yes,No,Yes,Werris Creek Hospital,02 6768 6600,22-34 North Street,Werris Creek,2341,NSW,-31.346691,150.652513
+NSW,Westmead,Western Sydney,Major Cities,802.6,Principal referral,Yes,Yes,Yes,Westmead Hospital,02 8890 5555,166-174 Darcy Road,Westmead,2145,NSW,-33.804362,150.987811
+NSW,Wilcannia (MPS),Far West,Very Remote,8,Very small,Yes,No,Yes,Wilcannia Multi Purpose Service,08 8083 8777,14 Ross Street,Wilcannia,2836,NSW,-31.557638,143.385336
+NSW,Wingham,Hunter New England,Inner Regional,16,Rehabilitation and GEM,No,No,Yes,Wingham Hospital,02 6557 3400,32 Bungay Road,Wingham,2429,NSW,-31.878104,152.365179
+NSW,Wollongong,Illawarra Shoalhaven,Major Cities,504.4,Principal referral,Yes,Yes,Yes,Wollongong Hospital,02 4222 5000,348 Crown Street,Wollongong,2500,NSW,-34.424938,150.883451
+NSW,Woy Woy,Central Coast,Major Cities,52.2,Mixed subacute and non-acute,No,No,Yes,Woy Woy Hospital,02 4344 8444,7 Kathleen Street,Woy Woy,2256,NSW,-33.496716,151.320952
+NSW,Wyalong,Murrumbidgee,Outer Regional,22,Public acute group D,Yes,No,Yes,Wyalong Hospital,02 6979 0000,70 Ungarie Road,West Wyalong,2671,NSW,-33.916373,147.196483
+NSW,Wyong,Central Coast,Major Cities,339.1,Public acute group A,Yes,Yes,Yes,Wyong Hospital,02 4394 8000,664 Pacific Highway,Hamlyn Terrace,2259,NSW,-33.261113,151.480761
+NSW,Yass,Southern NSW,Inner Regional,11.3,Public acute group D,Yes,No,Yes,Yass Hospital,02 6220 2000,145-147 Meehan Street,Yass,2582,NSW,-34.844072,148.906427
+NT,Alice Springs Hospital,NT Regional Health Services (NTRHS),Remote,364,Public acute group A,Yes,Yes,Yes,Alice Springs Hospital,08 8951 7777,6 Gap Road,Alice Springs,0870,NT,-23.705758,133.878064
+NT,Gove District Hospital,NT Regional Health Services (NTRHS),Very Remote,30,Public acute group C,Yes,Yes,Yes,Gove Hospital,08 8987 0211,80 Matthew Flinders Way,Nhulunbuy,0880,NT,-12.18602,136.777874
+NT,Katherine Hospital,NT Regional Health Services (NTRHS),Remote,62,Public acute group C,Yes,Yes,Yes,Katherine Hospital,08 8973 9211,Gorge Road,Katherine,0850,NT,-14.439002,132.272129
+NT,Palmerston Regional Hospital,NT Regional Health Services (NTRHS),Outer Regional,115,Public acute group C,Yes,Yes,Yes,Palmerston Regional Hospital,08 7979 9200,Linco Rd,Holtze,0829,NT,-12.475079,131.004464
+NT,Royal Darwin Hospital,NT Regional Health Services (NTRHS),Outer Regional,458,Principal referral,Yes,Yes,Yes,Royal Darwin Hospital,08 8922 8888,Rocklands Drive,Tiwi,0810,NT,-12.355806,130.881789
+NT,Tennant Creek Hospital,NT Regional Health Services (NTRHS),Very Remote,43,Public acute group C,Yes,Yes,Yes,Tennant Creek Hospital,08 8962 4399,41 Schmidt Street,Tennant Creek,0860,NT,-19.647791,134.186893
+QLD,Alpha Hospital,Central West (Qld),Very Remote,4,Very small,No,No,Yes,Alpha Hospital,07 4809 7000,1 Burns Street,Alpha,4724,QLD,-23.649039,146.632962
+QLD,Atherton Hospital,Cairns and Hinterland,Outer Regional,62,Public acute group C,No,Yes,Yes,Atherton Hospital,07 4091 0211,Corner of Louise and Jack Streets,Atherton,4883,QLD,-17.266635,145.483177
+QLD,Augathella Hospital,South West (Qld),Very Remote,4,Very small,No,No,Yes,Augathella Hospital,07 4656 7100,Cavanagh Street,Augathella,4477,QLD,-25.796104,146.590919
+QLD,Ayr Hospital,Townsville,Outer Regional,31,Public acute group C,No,Yes,Yes,Ayr Hospital,07 4783 0855,2 Chippendale Street,Ayr,4807,QLD,-19.564066,147.408821
+QLD,Babinda Hospital,Cairns and Hinterland,Outer Regional,11,Public acute group D,No,No,Yes,Babinda Hospital,07 4067 8200,128 Munro Street,Babinda,4861,QLD,-17.343079,145.918908
+QLD,Baillie Henderson Hospital,Darling Downs,Inner Regional,108,Psychiatric,No,No,No,Baillie Henderson Hospital,07 4699 8888,Corner of Hogg and Tor Streets,Toowoomba,4350,QLD,-27.524371,151.936283
+QLD,Bamaga Hospital,Torres and Cape,Very Remote,16,Public acute group D,No,No,Yes,Bamaga Hospital,07 4069 3166,Sagaukaz Street,Bamaga,4876,QLD,-10.893996,142.385131
+QLD,Baralaba Hospital,Central Queensland,Outer Regional,5,Very small,No,No,Yes,Baralaba Hospital,07 4998 2800,Stopford Street,Baralaba,4702,QLD,-24.184268,149.809586
+QLD,Barcaldine Hospital,Central West (Qld),Very Remote,12,Public acute group D,No,No,Yes,Barcaldine Hospital,07 4650 4000,Oak Street,Barcaldine,4725,QLD,-23.553316,145.293674
+QLD,Beaudesert Hospital,Metro South (Qld),Inner Regional,28,Public acute group D,No,Yes,Yes,Beaudesert Hospital,07 5541 9111,64 Tina Street,Beaudesert,4285,QLD,-27.984869,153.002536
+QLD,Biggenden Hospital,Wide Bay,Outer Regional,7,Public acute group D,No,No,Yes,Biggenden Hospital,07 4127 6400,Alice Street,Biggenden,4621,QLD,-25.506406,152.051099
+QLD,Biloela Hospital,Central Queensland,Outer Regional,19,Public acute group C,No,Yes,Yes,Biloela Hospital,07 4992 7000,2 Hospital Road,Biloela,4715,QLD,-24.395813,150.517491
+QLD,Blackall Hospital,Central West (Qld),Very Remote,11,Public acute group D,No,No,Yes,Blackall Hospital,07 4650 7700,Shamrock Street,Blackall,4472,QLD,-24.422705,145.449349
+QLD,Blackwater Hospital,Central Queensland,Outer Regional,10,Public acute group D,No,No,Yes,Blackwater Hospital,07 4980 1800,Mackenzie Street,Blackwater,4717,QLD,-23.571873,148.878219
+QLD,Boonah Hospital,West Moreton,Inner Regional,22,Public acute group D,No,No,Yes,Boonah Hospital,07 5463 3300,11-17 Leonard Street,Boonah,4310,QLD,-27.999128,152.678943
+QLD,Bowen Hospital,Mackay,Outer Regional,27,Public acute group C,No,No,Yes,Bowen Hospital,07 4786 8222,Gregory Street,Bowen,4805,QLD,-20.007104,148.240327
+QLD,Bundaberg Base Hospital,Wide Bay,Inner Regional,245,Public acute group A,Yes,Yes,Yes,Bundaberg Base Hospital,07 4150 2222,Bourbong Street,Bundaberg,4670,QLD,-24.868877,152.336157
+QLD,Caboolture Hospital,Metro North (Qld),Major Cities,295,Public acute group B,Yes,Yes,Yes,Caboolture Hospital,07 5433 8888,McKean Street,Caboolture,4510,QLD,-27.080776,152.963623
+QLD,Cairns Hospital,Cairns and Hinterland,Outer Regional,655,Public acute group A,Yes,Yes,Yes,Cairns Hospital,07 4226 0000,The Esplanade,Cairns,4870,QLD,-16.912537,145.768522
+QLD,Caloundra Hospital,Sunshine Coast,Major Cities,35,Public acute group B,No,Yes,Yes,Caloundra Hospital,07 5436 8500,West Terrace,Caloundra,4551,QLD,-26.800582,153.119759
+QLD,Capricorn Coast Hospital,Central Queensland,Inner Regional,22,Public acute group C,No,No,Yes,Capricorn Coast Hospital,07 4913 3000,8 Hoskyn Drive,Yeppoon,4703,QLD,-23.143888,150.734519
+QLD,Charleville Hospital,South West (Qld),Very Remote,21,Public acute group C,No,Yes,Yes,Charleville Hospital,07 4650 5000,72 King Street,Charleville,4470,QLD,-26.410455,146.239228
+QLD,Charters Towers Hospital,Townsville,Outer Regional,26,Public acute group D,No,No,Yes,Charters Towers Hospital,07 4787 0333,137-139 Gill Street,Charters Towers,4820,QLD,-20.076167,146.264097
+QLD,Cherbourg Hospital,Darling Downs,Inner Regional,12,Public acute group C,No,No,Yes,Cherbourg Hospital,07 4169 8800,Fisher Street,Cherbourg,4605,QLD,-26.291519,151.956324
+QLD,Childers Hospital,Wide Bay,Inner Regional,16,Public acute group D,No,No,Yes,Childers Hospital,07 4192 1133,44 Broadhurst Street,Childers,4660,QLD,-25.239416,152.273286
+QLD,Chinchilla Hospital,Darling Downs,Outer Regional,10,Public acute group C,No,Yes,Yes,Chinchilla Hospital,07 4662 8888,Slessar Street,Chinchilla,4413,QLD,-26.741337,150.634939
+QLD,Clermont Hospital,Mackay,Remote,10,Public acute group D,No,No,Yes,Clermont Hospital,07 4983 4000,Francis Street,Clermont,4721,QLD,-22.826219,147.632174
+QLD,Cloncurry Hospital,North West (Qld),Remote,15,Public acute group D,No,No,Yes,Cloncurry Hospital,07 4742 4500,1 Musgrave Street,Cloncurry,4824,QLD,-20.704166,140.527571
+QLD,Collinsville Hospital,Mackay,Remote,8,Public acute group D,No,No,Yes,Collinsville Hospital,07 4785 4777,Garrick Street,Collinsville,4804,QLD,-20.546108,147.838146
+QLD,Cooktown Hospital,Torres and Cape,Remote,27,Public acute group D,No,Yes,Yes,Cooktown Hospital,07 4043 0100,48 Hope Street,Cooktown,4895,QLD,-15.478067,145.249616
+QLD,Cunnamulla Hospital,South West (Qld),Very Remote,7,Public acute group D,No,No,Yes,Cunnamulla Hospital,07 4655 8100,56 Wicks Street,Cunnamulla,4490,QLD,-28.071658,145.690405
+QLD,Dalby Hospital,Darling Downs,Inner Regional,28,Public acute group C,No,Yes,Yes,Dalby Hospital,07 4669 0555,Hospital Road,Dalby,4405,QLD,-27.167153,151.278905
+QLD,Dirranbandi Hospital,South West (Qld),Very Remote,7,Public acute group D,No,No,Yes,Dirranbandi Hospital,07 4625 8222,Corner of Jane and Cowildi Streets,Dirranbandi,4486,QLD,-28.579349,148.229159
+QLD,Doomadgee Hospital,North West (Qld),Very Remote,5,Public acute group D,No,No,Yes,Doomadgee Hospital,07 4745 8800,Sharpe Street,Doomadgee,4830,QLD,-17.942527,138.825267
+QLD,Dysart Hospital,Mackay,Outer Regional,9,Public acute group D,No,No,Yes,Dysart Hospital,07 4941 1911,Queen Elizabeth Drive,Dysart,4745,QLD,-22.582729,148.353044
+QLD,Eidsvold Hospital,Wide Bay,Outer Regional,4,Public acute group D,No,No,Yes,Eidsvold Hospital,07 4165 7100,Cracow Road,Eidsvold,4627,QLD,-25.382639,151.125494
+QLD,Ellen Barron Family Centre (Riverton),Children's Health Queensland,Major Cities,26,Early parenting centres,No,No,No,Ellen Barron Family Centre,07 3139 6500,Hamilton Road,Chermside,4032,QLD,-27.385905,153.025152
+QLD,Emerald Hospital,Central Queensland,Outer Regional,36,Public acute group C,No,Yes,Yes,Emerald Hospital,07 4987 9400,69 Hospital Road,Emerald,4720,QLD,-23.514826,148.154989
+QLD,Esk Hospital,West Moreton,Inner Regional,20,Public acute group D,No,No,Yes,Esk Hospital,07 5424 4600,30 Highland Street,Esk,4312,QLD,-27.240398,152.418179
+QLD,Gatton Hospital,West Moreton,Inner Regional,25,Public acute group D,No,No,Yes,Gatton Hospital,07 5468 4188,97-103 William Street,Gatton,4343,QLD,-27.566778,152.276269
+QLD,Gayndah Hospital,Wide Bay,Outer Regional,10,Public acute group D,No,No,Yes,Gayndah Hospital,07 4161 3500,69 Warton Street,Gayndah,4625,QLD,-25.631384,151.604531
+QLD,Gin Gin Hospital,Wide Bay,Outer Regional,6,Public acute group D,No,No,Yes,Gin Gin Hospital,07 4157 2222,5 King Street,Gin Gin,4671,QLD,-24.985707,151.953449
+QLD,Gladstone Hospital,Central Queensland,Inner Regional,94,Public acute group B,Yes,Yes,Yes,Gladstone Hospital,07 4976 3200,Park Street,Gladstone,4680,QLD,-23.850654,151.248532
+QLD,Gold Coast University Hospital,Gold Coast,Major Cities,932,Principal referral,Yes,Yes,Yes,Gold Coast University Hospital,07 5687 0000,1 Hospital Boulevard,Southport,4215,QLD,-27.958896,153.381173
+QLD,Goondiwindi Hospital,Darling Downs,Outer Regional,20,Public acute group C,No,Yes,Yes,Goondiwindi Hospital,07 4578 2400,Bowen Street,Goondiwindi,4390,QLD,-28.547951,150.302302
+QLD,Gordonvale Hospital,Cairns and Hinterland,Outer Regional,24,Mixed subacute and non-acute,No,No,Yes,Gordonvale Hospital,07 4043 3100,1-11 Highleigh Road,Gordonvale,4865,QLD,-17.087337,145.786159
+QLD,Gympie Hospital,Sunshine Coast,Inner Regional,83,Public acute group B,Yes,Yes,Yes,Gympie Hospital,07 5489 8444,12 Henry Street,Gympie,4570,QLD,-26.184353,152.658258
+QLD,Herberton Hospital,Cairns and Hinterland,Outer Regional,38,Mixed subacute and non-acute,No,No,Yes,Herberton Hospital,07 4096 1000,23 Grace Street,Herberton,4887,QLD,-17.379371,145.38175
+QLD,Hervey Bay Hospital,Wide Bay,Inner Regional,211,Public acute group A,Yes,Yes,Yes,Hervey Bay Hospital,07 4120 6666,Corner of Nissen and Uraween Roads,Pialba,4655,QLD,-25.298697,152.820639
+QLD,Home Hill Hospital,Townsville,Outer Regional,14,Very small,No,No,Yes,Home Hill Hospital,07 4790 5700,Tenth Avenue,Home Hill,4806,QLD,-19.661764,147.416759
+QLD,Hughenden Hospital,Townsville,Very Remote,9,Public acute group D,No,No,Yes,Hughenden Hospital,07 4741 2800,14 Richmond Hill Drive,Hughenden,4821,QLD,-20.8424,144.1892
+QLD,Ingham Hospital,Townsville,Outer Regional,36,Public acute group D,No,Yes,Yes,Ingham Hospital,07 4720 3000,2-16 Mcilwraith Street,Ingham,4850,QLD,-18.652293,146.164222
+QLD,Inglewood Hospital,Darling Downs,Outer Regional,5,Public acute group D,No,No,Yes,Inglewood Hospital,07 4652 0888,Cunningham Highway,Inglewood,4387,QLD,-28.417647,151.061856
+QLD,Injune Hospital,South West (Qld),Remote,7,Public acute group D,No,No,Yes,Injune Hospital,07 4626 1188,Fifth Avenue,Injune,4454,QLD,-25.847096,148.562471
+QLD,Innisfail Hospital,Cairns and Hinterland,Outer Regional,63,Public acute group C,No,Yes,Yes,Innisfail Hospital,07 4016 1411,87 Rankin Street,Innisfail,4860,QLD,-17.518939,146.030049
+QLD,Ipswich Hospital,West Moreton,Major Cities,460,Public acute group A,Yes,Yes,Yes,Ipswich Hospital,07 3810 1111,Chelmsford Avenue,Ipswich,4305,QLD,-27.619465,152.759313
+QLD,Jacaranda Place Queensland Adolescent Extended Treatment Centre,Children's Health Queensland,Major Cities,12,Psychiatric,No,No,No,Jacaranda Place,07 2105 6000,78 Farnell St,Chermside,4032,QLD,-27.387650,153.026560
+QLD,Jandowae Hospital,Darling Downs,Outer Regional,10,Very small,No,No,Yes,Jandowae Hospital,07 4668 4555,13 Dalby Street,Jandowae,4410,QLD,-26.781016,151.105313
+QLD,Joyce Palmer Health Service,Townsville,Remote,11,Public acute group D,No,No,Yes,Joyce Palmer Health Service,07 4752 5100,Beach Road,Palm Island,4816,QLD,-18.732733,146.578731
+QLD,Julia Creek Hospital,North West (Qld),Very Remote,0,Public acute group D,No,No,Yes,Julia Creek Hospital,07 4746 4000,1 Burke Street,Julia Creek,4823,QLD,-20.656096,141.749875
+QLD,Kilcoy Hospital,Metro North (Qld),Inner Regional,21,Public acute group D,No,No,Yes,Kilcoy Hospital,07 5422 4411,19 Brown Street,Kilcoy,4515,QLD,-26.941009,152.561495
+QLD,Kingaroy Hospital,Darling Downs,Inner Regional,45,Public acute group C,No,Yes,Yes,Kingaroy Hospital,07 4162 9200,166 Youngman Street,Kingaroy,4610,QLD,-26.532454,151.838307
+QLD,Kirwan Mental Health Rehabilitation Unit,Townsville,Outer Regional,9,Psychiatric,No,No,No,Kirwan Rehabilitation Unit,07 4799 9800,138 Thuringowa Drive,Kirwan,4817,QLD,-19.303796,146.731627
+QLD,Laidley Hospital,West Moreton,Inner Regional,15,Public acute group D,No,No,Yes,Laidley Hospital,07 5466 8100,75 William Street,Laidley,4341,QLD,-27.632725,152.400015
+QLD,Logan Hospital,Metro South (Qld),Major Cities,478,Public acute group A,Yes,Yes,Yes,Logan Hospital,07 3299 8899,Corner of Armstrong and Loganlea Roads,Meadowbrook,4131,QLD,-27.670169,153.141732
+QLD,Longreach Hospital,Central West (Qld),Very Remote,23,Public acute group C,No,Yes,Yes,Longreach Hospital,07 4658 4700,Jabiru Street,Longreach,4730,QLD,-23.439033,144.260873
+QLD,Mackay Base Hospital,Mackay,Inner Regional,235,Public acute group A,Yes,Yes,Yes,Mackay Base Hospital,07 4885 6000,475 Bridge Road,Mackay,4740,QLD,-21.145792,149.155325
+QLD,Maleny Hospital,Sunshine Coast,Inner Regional,25,Public acute group D,No,No,Yes,Maleny Hospital,07 5420 5000,17 Bean Street,Maleny,4552,QLD,-26.754893,152.844972
+QLD,Mareeba Hospital,Cairns and Hinterland,Outer Regional,51,Public acute group C,No,Yes,Yes,Mareeba Hospital,07 4092 9333,21 Lloyd Street,Mareeba,4880,QLD,-16.987117,145.424468
+QLD,Maryborough Hospital,Wide Bay,Inner Regional,114,Public acute group B,Yes,Yes,Yes,Maryborough Hospital,07 4122 8222,185 Walker Street,Maryborough,4650,QLD,-25.522131,152.689855
+QLD,Mater Hospital Brisbane,,Major Cities,329,Public acute group A,Yes,Yes,Yes,Mater Adult Hospital,07 3163 8111,Raymond Terrace,South Brisbane,4101,QLD,-27.485488,153.028103
+QLD,Mater Mothers' Hospital,,Major Cities,155,Womens,No,Yes,Yes,Mater Mothers' Hospital,07 3163 1918,Raymond Terrace,South Brisbane,4101,QLD,-27.485436,153.027001
+QLD,Miles Hospital,Darling Downs,Outer Regional,8,Public acute group D,No,No,Yes,Miles Hospital,07 4628 5600,26 Colamba Street,Miles,4415,QLD,-26.658236,150.191023
+QLD,Millmerran Hospital,Darling Downs,Inner Regional,6,Public acute group D,No,No,Yes,Millmerran Hospital,07 4695 3111,50 Commens Street,Millmerran,4357,QLD,-27.878928,151.26267
+QLD,Mitchell Hospital,South West (Qld),Very Remote,12,Public acute group D,No,No,Yes,Mitchell Hospital,07 4623 1277,95 Ann Street,Mitchell,4465,QLD,-26.489913,147.972493
+QLD,Monto Hospital,Wide Bay,Outer Regional,14,Public acute group D,No,No,Yes,Monto Hospital,07 4166 9300,35 Flinders Street,Monto,4630,QLD,-24.866424,151.112501
+QLD,Moranbah Hospital,Mackay,Outer Regional,12,Public acute group D,No,No,Yes,Moranbah Hospital,07 4941 4600,Elliott Street,Moranbah,4744,QLD,-22.002125,148.055287
+QLD,Mornington Island Hospital,North West (Qld),Very Remote,7,Public acute group D,No,No,Yes,Mornington Island Hospital,07 4745 7209,Lardyl Street,Mornington Island,4871,QLD,-16.665534,139.178559
+QLD,Mossman Hospital,Cairns and Hinterland,Outer Regional,18,Public acute group C,No,No,Yes,Mossman Hospital,07 4084 1200,9 Hospital Street,Mossman,4873,QLD,-16.464031,145.368025
+QLD,Mount Isa Hospital,North West (Qld),Remote,85,Public acute group B,Yes,Yes,Yes,Mount Isa Base Hospital,07 4744 4444,30 Camooweal Street,Mount Isa,4825,QLD,-20.730919,139.493815
+QLD,Mount Morgan Hospital,Central Queensland,Inner Regional,10,Public acute group D,No,No,Yes,Mount Morgan Hospital,07 4912 5100,Black Street,Mount Morgan,4714,QLD,-23.645094,150.392639
+QLD,Moura Hospital,Central Queensland,Outer Regional,3,Public acute group D,No,No,Yes,Moura Hospital,07 4997 2900,14 Nott Street,Moura,4718,QLD,-24.575948,149.975999
+QLD,Mundubbera Hospital,Wide Bay,Outer Regional,4,Public acute group D,No,No,Yes,Mundubbera Hospital,07 4165 5200,96 Leichhardt Street,Mundubbera,4626,QLD,-25.587619,151.293282
+QLD,Mungindi Hospital,South West (Qld),Remote,3,Public acute group D,No,No,Yes,Mungindi Hospital,02 6705 6100,Barwon Street,Mungindi,2406,QLD,-28.972817,148.989061
+QLD,Murgon Hospital,Darling Downs,Inner Regional,10,Public acute group D,No,No,Yes,Murgon Hospital,07 4169 9600,Coronation Drive,Murgon,4605,QLD,-26.239075,151.950702
+QLD,Nambour Hospital,Sunshine Coast,Major Cities,195,Public acute group A,Yes,Yes,Yes,Nambour General Hospital,07 5470 6600,Hospital Road,Nambour,4560,QLD,-26.621659,152.952249
+QLD,Nanango Hospital,Darling Downs,Inner Regional,10,Public acute group D,No,No,Yes,Nanango Hospital,07 4171 6700,135 Brisbane Street,Nanango,4615,QLD,-26.666405,152.007833
+QLD,Normanton Hospital,North West (Qld),Very Remote,14,Public acute group D,No,No,Yes,Normanton Hospital,07 4745 2100,Brown Street,Normanton,4890,QLD,-17.678739,141.086425
+QLD,Oakey Hospital,Darling Downs,Inner Regional,8,Public acute group D,No,No,Yes,Oakey Hospital,07 4691 4888,Corner Beale and Fitzpatrick Streets,Oakey,4401,QLD,-27.424079,151.719088
+QLD,Princess Alexandra Hospital,Metro South (Qld),Major Cities,1056,Principal referral,Yes,Yes,Yes,Princess Alexandra Hospital,07 3176 2111,199 Ipswich Road,Woolloongabba,4102,QLD,-27.499402,153.033542
+QLD,Proserpine Hospital,Mackay,Outer Regional,33,Public acute group C,No,Yes,Yes,Proserpine Hospital,07 4813 9400,26-34 Taylor Street,Proserpine,4800,QLD,-20.400017,148.584976
+QLD,Queen Elizabeth Ii Jubilee Hospital,Metro South (Qld),Major Cities,243,Public acute group A,Yes,Yes,Yes,Queen Elizabeth II Jubilee Hospital,07 3275 6111,Corner of Kessels and Troughton Roads,Coopers Plains,4108,QLD,-27.559673,153.048852
+QLD,Queensland Children's Hospital,Children's Health Queensland,Major Cities,377,Childrens,Yes,Yes,Yes,Queensland Children's Hospital,07 3068 1111,501 Stanley St,South Brisbane,4101,QLD,-27.484305,153.026717
+QLD,Quilpie Hospital,South West (Qld),Very Remote,6,Very small,No,No,Yes,Quilpie Hospital,07 4656 0100,30 Gyrica Street,Quilpie,4480,QLD,-26.616519,144.274617
+QLD,Redcliffe Hospital,Metro North (Qld),Major Cities,429,Public acute group A,Yes,Yes,Yes,Redcliffe Hospital,07 3883 7777,Anzac Avenue,Redcliffe,4020,QLD,-27.228269,153.105245
+QLD,Redland Hospital,Metro South (Qld),Major Cities,192,Public acute group B,Yes,Yes,Yes,Redland Hospital,07 3488 3111,Weippin Street,Cleveland,4163,QLD,-27.539992,153.251379
+QLD,Richmond Hospital,Townsville,Very Remote,6,Very small,No,No,Yes,Richmond Hospital,07 4741 6100,Gallagher Drive,Richmond,4822,QLD,-20.738726,143.150471
+QLD,Robina Hospital,Gold Coast,Major Cities,438,Public acute group B,Yes,Yes,Yes,Robina Hospital,07 5668 6000,2 Bayberry Lane,Robina,4226,QLD,-28.072198,153.377284
+QLD,Rockhampton Base Hospital,Central Queensland,Inner Regional,331,Public acute group A,Yes,Yes,Yes,Rockhampton Hospital,07 4920 6211,Canning Street,Rockhampton,4700,QLD,-23.379525,150.494542
+QLD,Roma Hospital,South West (Qld),Outer Regional,44,Public acute group C,No,Yes,Yes,Roma Hospital,07 4624 2700,197-234 Mcdowall Street,Roma,4455,QLD,-26.568828,148.775846
+QLD,Royal Brisbane & Women's Hospital,Metro North (Qld),Major Cities,965,Principal referral,Yes,Yes,Yes,Royal Brisbane & Women's Hospital,07 3646 8111,Butterfield Street,Herston,4006,QLD,-27.446972,153.027888
+QLD,Sarina Hospital,Mackay,Outer Regional,16,Public acute group D,No,No,Yes,Sarina Hospital,07 4943 8777,1 Hospital Street,Sarina,4737,QLD,-21.421151,149.210268
+QLD,Springsure Hospital,Central Queensland,Remote,10,Public acute group D,No,No,Yes,Springsure Hospital,07 4984 1200,Woodbine Street,Springsure,4722,QLD,-24.120122,148.084762
+QLD,St George Hospital,South West (Qld),Remote,25,Public acute group C,No,Yes,Yes,St George Hospital Qld,07 4620 2222,1 Victoria Street,St George,4487,QLD,-28.0272,148.592683
+QLD,Stanthorpe Hospital,Darling Downs,Outer Regional,20,Public acute group C,No,Yes,Yes,Stanthorpe Hospital,07 4683 3400,8 McGregor Terrace,Stanthorpe,4380,QLD,-28.660927,151.928397
+QLD,Sunshine Coast University Hospital,Sunshine Coast,Major Cities,707,Principal referral,Yes,Yes,Yes,Sunshine Coast University Hospital,07 5202 0000,6 Doherty Street,Birtinya,4575,QLD,-26.74681,153.113812
+QLD,Surat Hospital,South West (Qld),Remote,4,Public acute group D,No,No,Yes,Surat Hospital,07 4626 5166,Ivan Street,Surat,4417,QLD,-27.156595,149.063787
+QLD,Surgical Treatment & Rehabilitation Service,Metro North (Qld),Major Cities,156,Public acute group B,No,Yes,Yes,Surgical Treatment & Rehabilitation Service,07 3647 7111,296 Herston Rd,Herston,4006,QLD,-27.449260,153.026110
+QLD,Tara Hospital,Darling Downs,Outer Regional,8,Public acute group D,No,No,Yes,Tara Hospital,07 4678 7900,15 Bilton Street,Tara,4421,QLD,-27.273674,150.456368
+QLD,Taroom Hospital,Darling Downs,Remote,4,Public acute group D,No,No,Yes,Taroom Hospital,07 4628 9900,Miller Street,Taroom,4420,QLD,-25.638818,149.798669
+QLD,Texas Hospital,Darling Downs,Outer Regional,6,Public acute group D,No,No,Yes,Texas Hospital,07 4653 3200,Mingoola Road,Texas,4385,QLD,-28.855978,151.179481
+QLD,The Park Centre for Mental Health,West Moreton,Major Cities,124,Psychiatric,No,No,No,The Park Centre For Mental Health,07 3271 8222,Corner of Ellerton Drive and Wolston Park Road,Wacol,4076,QLD,-27.600413,152.910246
+QLD,The Prince Charles Hospital,Metro North (Qld),Major Cities,671,Principal referral,Yes,Yes,Yes,The Prince Charles Hospital,07 3139 4000,Rode Road,Chermside,4032,QLD,-27.390497,153.021955
+QLD,Theodore Hospital,Central Queensland,Outer Regional,6,Public acute group D,No,No,Yes,Theodore Hospital,07 4990 3000,The Boulevard,Theodore,4719,QLD,-24.943109,150.075277
+QLD,Thursday Island Hospital,Torres and Cape,Very Remote,29,Public acute group C,No,Yes,Yes,Thursday Island Hospital,07 4069 0200,163 Douglas Street,Thursday Island,4875,QLD,-10.588,142.21156
+QLD,Toowoomba Hospital,Darling Downs,Inner Regional,452,Public acute group A,Yes,Yes,Yes,Toowoomba Hospital,07 4616 6000,Pechey Street,Toowoomba,4350,QLD,-27.569872,151.944433
+QLD,Townsville University Hospital,Townsville,Outer Regional,764,Principal referral,Yes,Yes,Yes,The Townsville Hospital,07 4433 1111,100 Angus Smith Drive,Douglas,4814,QLD,-19.320683,146.762092
+QLD,Tully Hospital,Cairns and Hinterland,Outer Regional,22,Public acute group C,No,No,Yes,Tully Hospital,07 4068 4144,Bryant Street,Tully,4854,QLD,-17.927624,145.924146
+QLD,Warwick Hospital,Darling Downs,Inner Regional,54,Public acute group C,No,Yes,Yes,Warwick Hospital,07 4660 3900,56 Locke Street,Warwick,4370,QLD,-28.224275,152.017983
+QLD,Weipa Hospital,Torres and Cape,Very Remote,19,Public acute group C,No,Yes,Yes,Weipa Hospital,07 4082 3900,Lot 407 John Evans Drive,Weipa,4874,QLD,-12.623419,141.881179
+QLD,Winton Hospital,Central West (Qld),Very Remote,8,Public acute group D,No,No,Yes,Winton Hospital,07 4657 2700,Bloomfield Street,Winton,4735,QLD,-22.381189,143.040672
+QLD,Wondai Hospital,Darling Downs,Outer Regional,5,Very small,No,No,Yes,Wondai Hospital,07 4169 2600,Bramston Street,Wondai,4606,QLD,-26.323335,151.878658
+QLD,Woorabinda Hospital,Central Queensland,Remote,7,Public acute group D,No,No,Yes,Woorabinda Hospital,07 4913 2800,1 Munns Drive,Woorabinda,4702,QLD,-24.131492,149.455983
+SA,Angaston District Hospital,Barossa Hills Fleurieu,Inner Regional,32,Public acute group C,No,Yes,Yes,Angaston District Hospital,08 8563 8500,29 North Street,Angaston,5353,SA,-34.503549,139.054715
+SA,Balaklava Soldiers' Memorial District Hospital,Yorke and Northern,Inner Regional,31,Public acute group D,No,No,Yes,Balaklava Soldiers' Memorial District Hospital,08 8862 1400,16 War Memorial Drive,Balaklava,5461,SA,-34.139594,138.419596
+SA,Barmera Health Service,Riverland Mallee Coorong,Outer Regional,20,Public acute group D,No,No,Yes,Barmera Health Service,08 8588 0400,Hawdon Street,Barmera,5345,SA,-34.249146,140.471706
+SA,Booleroo Centre District Hospital and Health Services,Yorke and Northern,Outer Regional,23,Public acute group D,No,No,Yes,Booleroo Centre District Hospital and Health Services,08 8667 2211,Stephens Street,Booleroo Centre,5482,SA,-32.877911,138.350958
+SA,Bordertown Memorial Hospital,Limestone Coast,Outer Regional,40,Public acute group C,No,Yes,Yes,Bordertown Memorial Hospital,08 8752 9000,23 South Terrace,Bordertown,5268,SA,-36.312133,140.766438
+SA,Burra Hospital,Yorke and Northern,Outer Regional,7,Very small,No,No,Yes,Burra Hospital,08 8892 2300,46 Commercial Street,Burra,5417,SA,-33.685486,138.934577
+SA,Ceduna District Health Service,Eyre and Far North,Very Remote,15,Public acute group C,No,Yes,Yes,Ceduna District Health Service,08 8626 2110,3 Eyre Highway,Ceduna,5690,SA,-32.119099,133.672317
+SA,Central Yorke Peninsula Hospital (Maitland),Yorke and Northern,Outer Regional,31,Public acute group D,No,No,Yes,Central Yorke Peninsula Hospital (Maitland),08 8862 2626,65 Robert Street,Maitland,5573,SA,-34.370494,137.673947
+SA,Clare Hospital,Yorke and Northern,Inner Regional,25,Public acute group C,No,Yes,Yes,Clare Hospital,08 8842 6500,47 Farrell Flat Road,Clare,5453,SA,-33.829588,138.614416
+SA,Cleve District Hospital and Aged Care,Eyre and Far North,Remote,20,Public acute group D,No,No,Yes,Cleve District Hospital and Aged Care,08 8628 2665,North Terrace,Cleve,5640,SA,-33.697779,136.494162
+SA,Coober Pedy Hospital and Health Service,Eyre and Far North,Very Remote,15,Public acute group D,No,No,Yes,Coober Pedy Hospital and Health Service,08 8672 5009,Lot 89 Hospital Road,Coober Pedy,5723,SA,-29.004893,134.762066
+SA,Cowell District Hospital and Aged Care,Eyre and Far North,Remote,8,Very small,No,No,Yes,Cowell District Hospital and Aged Care,08 8629 2437,17 South Terrace,Cowell,5602,SA,-33.685299,136.921405
+SA,Crystal Brook and District Hospital,Yorke and Northern,Outer Regional,13,Public acute group C,No,Yes,Yes,Crystal Brook and District Hospital,08 8636 1100,Edmund Terrace,Crystal Brook,5523,SA,-33.354297,138.213243
+SA,Cummins and District Memorial Hospital,Eyre and Far North,Remote,19,Public acute group D,No,No,Yes,Cummins and District Memorial Hospital,08 8688 2629,19-21 Tumby Bay Road,Cummins,5631,SA,-34.264155,135.73316
+SA,Elliston Hospital,Eyre and Far North,Very Remote,6,Very small,No,No,Yes,Elliston Hospital,08 8687 9001,6 Memorial Terrace,Elliston,5670,SA,-33.647912,134.892443
+SA,Eudunda Hospital,Barossa Hills Fleurieu,Inner Regional,8,Very small,No,No,Yes,Eudunda Hospital,08 8566 2007,40 Ward Street,Eudunda,5374,SA,-34.175482,139.090586
+SA,Flinders Medical Centre,Southern Adelaide,Major Cities,656,Principal referral,Yes,Yes,Yes,Flinders Medical Centre,08 8204 5511,Flinders Drive,Bedford Park,5042,SA,-35.022229,138.569439
+SA,Gawler Health Service,Barossa Hills Fleurieu,Major Cities,62,Public acute group C,Yes,Yes,Yes,Gawler Health Service,08 8521 2000,21 Hutchinson Road,Gawler East,5118,SA,-34.593743,138.755044
+SA,Glenside Hospital,Central Adelaide,Major Cities,84,Psychiatric,No,No,Yes,Glenside Health Services,08 7087 1000,226 Fullarton Road,Glenside,5065,SA,-34.943429,138.627714
+SA,Glenside Rural & Remote,Barossa Hills Fleurieu,Major Cities,0,Unknown,No,No,No,Glenside Rural & Remote,1300 515 951,Fullarton Road,Glenside,5065,SA,-34.943985,138.628775
+SA,Gumeracha District Soldiers' Memorial Hospital,Barossa Hills Fleurieu,Inner Regional,17,Public acute group D,No,No,Yes,Gumeracha District Soldiers' Memorial Hospital,08 8209 9200,2 Albert Street,Gumeracha,5233,SA,-34.826269,138.881575
+SA,Hampstead Rehabilitation Centre,Central Adelaide,Major Cities,119,Rehabilitation and GEM,No,No,Yes,Hampstead Rehabilitation Centre,08 8222 1600,207-255 Hampstead Road,Northfield,5085,SA,-34.860704,138.620381
+SA,Hawker Memorial Hospital,Flinders and Upper North,Outer Regional,4,Very small,No,No,Yes,Hawker Memorial Hospital,08 8648 4007,Cradock Road,Hawker,5434,SA,-31.893389,138.427841
+SA,James Nash House,Northern Adelaide,Major Cities,60,Psychiatric,No,No,Yes,James Nash House,08 8266 9600,140 Hilltop Drive,Oakden,5086,SA,-34.849781,138.637283
+SA,Jamestown Hospital and Health Service,Yorke and Northern,Outer Regional,12,Public acute group C,No,Yes,Yes,Jamestown Hospital and Health Service,08 8664 1406,South Terrace,Jamestown,5491,SA,-33.212265,138.616249
+SA,Kangaroo Island Health Service,Barossa Hills Fleurieu,Remote,15,Public acute group C,No,Yes,Yes,Kangaroo Island Health Service,08 8553 4200,3 to 7 The Esplanade,Kingscote,5223,SA,-35.652693,137.641289
+SA,Kapunda Hospital,Barossa Hills Fleurieu,Inner Regional,27,Public acute group C,No,Yes,Yes,Kapunda Hospital,08 8566 2007,26 Nash Street,Kapunda,5373,SA,-34.330289,138.921679
+SA,Karoonda and District Soldiers' Memorial Hospital,Riverland Mallee Coorong,Outer Regional,4,Very small,No,No,Yes,Karoonda and District Soldiers' Memorial Hospital,08 8579 1111,13 Stokes Road,Karoonda,5307,SA,-35.094226,139.889429
+SA,Kimba District Hospital and Aged Care,Eyre and Far North,Remote,8,Very small,No,No,Yes,Kimba District Hospital and Aged Care,08 8627 2400,15 Martin Terrace,Kimba,5641,SA,-33.143552,136.416013
+SA,Kingston Soldiers' Memorial Hospital,Limestone Coast,Outer Regional,10,Public acute group D,No,No,Yes,Kingston Soldiers' Memorial Hospital,08 8767 0222,Corner of Cooke and Young Streets,Kingston SE,5275,SA,-36.835501,139.848763
+SA,Lameroo District Health Service,Riverland Mallee Coorong,Remote,11,Public acute group D,No,No,Yes,Lameroo District Health Service,08 8576 4600,1A Vardon Terrace,Lameroo,5302,SA,-35.328203,140.514643
+SA,Laura and District Hospital,Yorke and Northern,Outer Regional,4,Very small,No,No,Yes,Laura and District Hospital,08 8663 2568,Mill Street,Laura,5480,SA,-33.174925,138.298687
+SA,Loxton Hospital Complex,Riverland Mallee Coorong,Outer Regional,22,Public acute group C,No,Yes,Yes,Loxton Hospital Complex,08 8584 8555,Drabsch Street,Loxton,5333,SA,-34.454695,140.564296
+SA,Lyell McEwin Hospital,Northern Adelaide,Major Cities,380,Public acute group A,Yes,Yes,Yes,Lyell McEwin Hospital,08 8182 9000,Haydown Road,Elizabeth Vale,5112,SA,-34.747607,138.664798
+SA,Mannum District Hospital,Riverland Mallee Coorong,Inner Regional,13,Public acute group D,No,No,Yes,Mannum District Hospital,08 8569 0200,Parker Street,Mannum,5238,SA,-34.916481,139.308614
+SA,McLaren Vale & Districts War Memorial Hospital Inc,Southern Adelaide,Major Cities,0,Public acute group D,No,No,No,McLaren Vale & Districts War Memorial Hospital Inc,08 8323 6600,3 Aldersey Street,McLaren Vale,5171,SA,-35.221405,138.544962
+SA,Meningie and Districts Memorial Hospital and Health Services,Riverland Mallee Coorong,Outer Regional,14,Public acute group D,No,No,Yes,Meningie and Districts Memorial Hospital and Health Services,08 8575 2777,2 South Terrace,Meningie,5264,SA,-35.693212,139.335565
+SA,Millicent and Districts Hospital and Health Service,Limestone Coast,Outer Regional,30,Public acute group C,No,Yes,Yes,Millicent and Districts Hospital and Health Service,08 8733 4755,Mount Gambier Road,Millicent,5280,SA,-37.598354,140.358924
+SA,Modbury Hospital,Northern Adelaide,Major Cities,134,Public acute group A,Yes,Yes,Yes,Modbury Hospital,08 8161 2000,41-69 Smart Road,Modbury,5092,SA,-34.834166,138.690505
+SA,Mount Barker District Soldiers' Memorial Hospital,Barossa Hills Fleurieu,Inner Regional,46,Public acute group C,Yes,Yes,Yes,Mount Barker District Soldiers' Memorial Hospital,08 8393 1777,Wellington Road,Mount Barker,5251,SA,-35.081813,138.870277
+SA,Mount Gambier and Districts Health Service,Limestone Coast,Inner Regional,96,Public acute group B,Yes,Yes,Yes,Mount Gambier and Districts Health Service,08 8721 1200,276-300 Wehl Street North,Mount Gambier,5290,SA,-37.805003,140.786662
+SA,Mount Pleasant District Hospital,Barossa Hills Fleurieu,Inner Regional,21,Public acute group D,No,No,Yes,Mount Pleasant District Hospital,08 8568 0000,28 Hospital Road,Mount Pleasant,5235,SA,-34.773855,139.054212
+SA,Murray Bridge Soldiers' Memorial Hospital,Riverland Mallee Coorong,Inner Regional,58,Public acute group C,Yes,Yes,Yes,Murray Bridge Soldiers' Memorial Hospital,08 8535 6777,96 Swanport Road,Murray Bridge,5253,SA,-35.128911,139.280462
+SA,Naracoorte Health Service,Limestone Coast,Outer Regional,60,Public acute group C,No,Yes,Yes,Naracoorte Health Service,08 8762 8100,101 Jenkins Terrace,Naracoorte,5271,SA,-36.966849,140.743693
+SA,Noarlunga Public Hospital,Southern Adelaide,Major Cities,106,Public acute group B,Yes,Yes,Yes,Noarlunga Hospital,08 8384 9222,Alexander Kelly Drive,Noarlunga Centre,5168,SA,-35.139879,138.500218
+SA,Northern Yorke Peninsula Health Service (Wallaroo),Yorke and Northern,Outer Regional,21,Public acute group C,Yes,Yes,Yes,Northern Yorke Peninsula Health Service (Wallaroo),08 8823 0200,1 Ernest Terrace,Wallaroo,5556,SA,-33.927738,137.636783
+SA,Orroroo and District Health Service,Yorke and Northern,Outer Regional,8,Very small,No,No,Yes,Orroroo and District Health Service,08 8658 1023,Pekina Road,Orroroo,5431,SA,-32.738519,138.607206
+SA,Penola War Memorial Hospital,Limestone Coast,Outer Regional,6,Very small,No,No,Yes,Penola War Memorial Hospital,08 8737 2311,18 Church Street,Penola,5277,SA,-37.382873,140.836465
+SA,Peterborough Soldiers' Memorial Hospital,Yorke and Northern,Outer Regional,22,Public acute group D,No,No,Yes,Peterborough Soldiers' Memorial Hospital,08 8651 0400,23 Hurlstone Street,Peterborough,5422,SA,-32.980786,138.830344
+SA,Pinnaroo Soldiers' Memorial Hospital,Riverland Mallee Coorong,Remote,8,Very small,No,No,Yes,Pinnaroo Soldiers' Memorial Hospital,08 8577 9222,Bundey Terrace,Pinnaroo,5304,SA,-35.257499,140.902447
+SA,Port Augusta Hospital and Regional Health Services,Flinders and Upper North,Outer Regional,61,Public acute group B,Yes,Yes,Yes,Port Augusta Hospital and Regional Health Services,08 8668 7500,71 Hospital Road,Port Augusta,5700,SA,-32.509417,137.776279
+SA,Port Broughton and District Hospital and Health Service,Yorke and Northern,Outer Regional,20,Public acute group D,No,No,Yes,Port Broughton and District Hospital and Health Service,08 8635 2200,Bay Street,Port Broughton,5522,SA,-33.601287,137.934379
+SA,Port Lincoln Health Service,Eyre and Far North,Remote,67,Public acute group C,Yes,Yes,Yes,Port Lincoln Health Service,08 8683 2200,39 Oxford Terrace,Port Lincoln,5606,SA,-34.72408,135.850201
+SA,Port Pirie Regional Health Service,Yorke and Northern,Outer Regional,69,Public acute group C,Yes,Yes,Yes,Port Pirie Regional Health Service,08 8638 4500,Alexander Street,Port Pirie,5540,SA,-33.177339,138.005533
+SA,Pregnancy Advisory Centre,Central Adelaide,Major Cities,0,Unpeered,No,No,No,Pregnancy Advisory Centre,08 8243 3999,21 Belmore Terrace,Woodville Park,5011,SA,-34.87999,138.542962
+SA,Quorn Health Service,Flinders and Upper North,Outer Regional,11,Public acute group D,No,Yes,Yes,Quorn Health Service,08 8648 7888,Hospital Road,Quorn,5433,SA,-32.350917,138.038138
+SA,Renmark Paringa District Hospital,Riverland Mallee Coorong,Outer Regional,17,Public acute group C,No,Yes,Yes,Renmark Paringa District Hospital,08 8580 4100,Ral Ral Avenue,Renmark,5341,SA,-34.164836,140.745205
+SA,Repatriation General Hospital,Southern Adelaide,Major Cities,0,Public acute group A,No,No,No,Repatriation General Hospital,08 8204 5511,216 Daw Rd,Daw Park,5041,SA,-34.99061,138.58971
+SA,Riverland General Hospital,Riverland Mallee Coorong,Outer Regional,53,Public acute group C,Yes,Yes,Yes,Riverland General Hospital,08 8580 2400,Maddern Street,Berri,5343,SA,-34.276054,140.600984
+SA,Riverton District Soldiers' Memorial Hospital,Yorke and Northern,Inner Regional,14,Public acute group D,No,No,Yes,Riverton District Soldiers' Memorial Hospital,08 8847 2300,23 Moorhouse Terrace,Riverton,5412,SA,-34.160353,138.742657
+SA,Roxby Downs Health Service,Flinders and Upper North,Remote,10,Public acute group D,No,No,Yes,Roxby Downs Health Service,08 8671 9020,16-28 Burgoyne Street,Roxby Downs,5725,SA,-30.562778,136.894261
+SA,Royal Adelaide Hospital,Central Adelaide,Major Cities,812,Principal referral,Yes,Yes,Yes,Royal Adelaide Hospital,08 7074 0000,Port Road,Adelaide,5000,SA,-34.920973,138.587393
+SA,Snowtown Hospital and Health Service,Yorke and Northern,Outer Regional,4,Very small,No,No,Yes,Snowtown Hospital and Health Service,08 8865 0100,South Terrace,Snowtown,5520,SA,-33.786936,138.212768
+SA,South Coast District Hospital,Barossa Hills Fleurieu,Inner Regional,47,Public acute group C,Yes,Yes,Yes,South Coast District Hospital,08 8552 0500,Bay Road,Victor Harbor,5211,SA,-35.561171,138.606447
+SA,Southern Yorke Peninsula Health Service (Yorketown),Yorke and Northern,Remote,26,Public acute group D,No,No,Yes,Southern Yorke Peninsula Health Service (Yorketown),08 8852 1200,19 Waterloo Bay Road,Yorketown,5576,SA,-35.020989,137.604939
+SA,St Margaret's Rehabilitation Hospital,Central Adelaide,Major Cities,24,Rehabilitation and GEM,No,No,No,St Margaret's Hospital,08 8242 9111,65 Military Road,Semaphore,5019,SA,-34.846418,138.480466
+SA,Strathalbyn and District Health Service,Barossa Hills Fleurieu,Inner Regional,25,Public acute group C,No,No,Yes,Strathalbyn and District Health Service,08 8536 5333,14 Alfred Place,Strathalbyn,5255,SA,-35.257674,138.893558
+SA,Streaky Bay Hospital,Eyre and Far North,Remote,19,Public acute group D,No,No,Yes,Streaky Bay Hospital,08 8626 1009,1 Flinders Drive,Streaky Bay,5680,SA,-32.792776,134.217524
+SA,Tailem Bend District Hospital,Riverland Mallee Coorong,Inner Regional,9,Public acute group D,No,No,Yes,Tailem Bend District Hospital,08 8572 5800,74 Princes Highway,Tailem Bend,5260,SA,-35.254803,139.452692
+SA,Tanunda War Memorial Hospital,Barossa Hills Fleurieu,Inner Regional,22,Public acute group C,No,No,Yes,Tanunda War Memorial Hospital,08 8563 2398,15 Mill Street,Tanunda,5352,SA,-34.528082,138.960859
+SA,The Queen Elizabeth Hospital,Central Adelaide,Major Cities,290,Public acute group A,Yes,Yes,Yes,The Queen Elizabeth Hospital,08 8222 6000,28 Woodville Road,Woodville,5011,SA,-34.884179,138.534039
+SA,Tumby Bay Hospital and Health Services,Eyre and Far North,Remote,15,Public acute group D,No,No,Yes,Tumby Bay Hospital and Health Services,08 8688 2007,8-11 Esplanade,Tumby Bay,5605,SA,-34.372292,136.103932
+SA,Waikerie Health Service,Riverland Mallee Coorong,Outer Regional,29,Public acute group C,No,Yes,Yes,Waikerie Health Service,08 8541 0555,1 Lawrie Terrace,Waikerie,5330,SA,-34.182447,139.984917
+SA,Whyalla Hospital and Health Services,Flinders and Upper North,Outer Regional,101,Public acute group B,Yes,Yes,Yes,Whyalla Hospital and Health Services,08 8648 8300,20 Wood Terrace,Whyalla,5600,SA,-33.033977,137.577559
+SA,Women's and Children's Hospital,Women's and Children's Health Network (SA),Major Cities,308,Womens and childrens,Yes,Yes,Yes,Women's and Children's Hospital,08 8161 7000,72 King William Road,North Adelaide,5006,SA,-34.911444,138.599631
+SA,Wudinna Hospital,Eyre and Far North,Very Remote,13,Very small,No,No,Yes,Wudinna Hospital,08 8680 2254,16-24 Richards Avenue,Wudinna,5652,SA,-33.050274,135.466983
+TAS,Beaconsfield MPS,Tasmanian Health Service,Outer Regional,4,Very small,No,No,No,Beaconsfield District Health Service,03 6702 6060,13 Bolton Street,Beaconsfield,7270,TAS,-41.193478,146.806719
+TAS,Campbell Town MPS,Tasmanian Health Service,Outer Regional,6,Very small,No,No,No,Campbell Town Multi Purpose Service,03 6774 8000,70 High Street,Campbell Town,7210,TAS,-41.926339,147.493107
+TAS,Deloraine Hospital,Tasmanian Health Service,Outer Regional,20,Public acute group D,No,No,No,Deloraine District Hospital,03 6701 2111,East Barrack Street,Deloraine,7304,TAS,-41.528033,146.659605
+TAS,Esperance MPC,Tasmanian Health Service,Outer Regional,3,Very small,No,No,No,Esperance Multi Purpose Centre,03 6298 9200,Chapman Avenue,Dover,7117,TAS,-43.314749,147.016209
+TAS,Flinders Island MPC,Tasmanian Health Service,Very Remote,5,Very small,No,No,No,Flinders Island Multi Purpose Centre,03 6359 2122,James Street,Whitemark,7255,TAS,-40.121173,148.017059
+TAS,George Town Hospital,Tasmanian Health Service,Outer Regional,15,Public acute group D,No,No,No,George Town Hospital and Community Health Centre,03 6702 6020,47 Anne Street,George Town,7253,TAS,-41.103782,146.821149
+TAS,Health West,Tasmanian Health Service,Remote,10,Public acute group D,No,No,No,HealthWest (West Coast District Hospital at Queenstown),03 6471 3300,Orr Street,Queenstown,7467,TAS,-42.081122,145.558303
+TAS,Huon Hospital,Tasmanian Health Service,Outer Regional,9,Very small,No,No,No,Huon Eldercare,03 6264 7100,3278 Huon Highway,Franklin,7113,TAS,-43.080869,147.016382
+TAS,King Is MPC,Tasmanian Health Service,Very Remote,5,Public acute group D,No,No,No,King Island Multi Purpose Centre,03 6462 9900,Edward Street,Currie,7256,TAS,-39.931673,143.855453
+TAS,Launceston General Hospital,Tasmanian Health Service,Inner Regional,465,Public acute group A,Yes,Yes,Yes,Launceston General Hospital,03 6777 6777,274-280 Charles Street,Launceston,7250,TAS,-41.446634,147.142059
+TAS,May Shaw District Nursing Centre,Tasmanian Health Service,Remote,3,Very small,No,No,No,May Shaw District Nursing Centre,03 6257 9100,37 Wellington Street,Swansea,7190,TAS,-42.127383,148.076788
+TAS,Mersey,Tasmanian Health Service,Inner Regional,96,Public acute group B,Yes,Yes,Yes,Mersey Community Hospital,03 6478 5500,Bass Highway,Latrobe,7307,TAS,-41.229052,146.422445
+TAS,Midlands MPC,Tasmanian Health Service,Outer Regional,4,Very small,No,No,No,Midlands Multi Purpose Centre,03 6254 5030,13 Church Street,Oatlands,7120,TAS,-42.299353,147.369522
+TAS,NESM  - Scottsdale Hospital,Tasmanian Health Service,Outer Regional,18,Public acute group C,No,No,No,North East Soldiers' Memorial Hospital and Community Service Centre (Scottsdale Hospital),03 6778 8522,28 Fosters Road,Scottsdale,7260,TAS,-41.154294,147.521324
+TAS,NWRH_Burnie,Tasmanian Health Service,Outer Regional,150,Public acute group A,Yes,Yes,Yes,North West Regional Hospital,03 6430 6666,23 Brickport Road,Burnie,7320,TAS,-41.048385,145.880842
+TAS,New Norfolk Hospital,Tasmanian Health Service,Inner Regional,14,Public acute group D,No,No,No,New Norfolk District Hospital,03 6166 1300,3 Richmond Street,New Norfolk,7140,TAS,-42.781315,147.059179
+TAS,Royal Hobart Hospital,Tasmanian Health Service,Inner Regional,675,Principal referral,Yes,Yes,Yes,Royal Hobart Hospital,03 6222 8308,48 Liverpool Street,Hobart,7000,TAS,-42.880028,147.330136
+TAS,Smithton Hospital,Tasmanian Health Service,Outer Regional,12,Public acute group D,No,No,No,Smithton District Hospital,03 6478 9520,74 Brittons Road,Smithton,7330,TAS,-40.850159,145.129609
+TAS,St Helens District Hospital,Tasmanian Health Service,Outer Regional,9,Public acute group D,No,No,No,St Helens District Hospital,03 6387 5570,Circassion Street,St Helens,7216,TAS,-41.323159,148.248814
+TAS,St Marys CHC,Tasmanian Health Service,Outer Regional,8,Public acute group D,No,No,No,St Marys Community Health Centre,03 6387 5555,Gardiners Creek Road,St Marys,7215,TAS,-41.576062,148.181244
+TAS,Statewide Mental Health Services,Tasmanian Health Service,Inner Regional,99,Psychiatric,No,No,No,statewide mental health services tasmania,03 6230 7780,Carrauthers La,New Town,7008,TAS,-42.85596,147.29567
+TAS,Tasman MPS,Tasmanian Health Service,Outer Regional,4,Very small,No,No,No,Tasman Health and Community Service,03 6250 9000,1614 Nubeena Road,Nubeena,7184,TAS,-43.096752,147.742831
+TAS,Toosey Memorial - Longford,Tasmanian Health Service,Inner Regional,2,Very small,No,No,No,Toosey Memorial Hospital (Longford),03 6391 1202,10 Archer Street,Longford,7301,TAS,-41.593091,147.119486
+TAS,Wilfred Lopes Centre,Tasmanian Health Service,Inner Regional,20,Psychiatric,No,No,No,Wilfred Lopes Centre,03 6166 0502,East Derwent Highway,Risdon Vale,7016,TAS,-42.8152,147.34375
+NSW,Young,Murrumbidgee,Inner Regional,27.4,Public acute group C,Yes,Yes,Yes,Young Hospital,02 6382 8888,68 Allanan Street,Young,2594,NSW,-34.320383,148.288457
+VIC,Albury Wodonga Health [Wodonga Campus],Albury Wodonga Health,Inner Regional,105,Public acute group B,Yes,Yes,Yes,Albury Wodonga Health [Wodonga Campus],02 6051 7111,69 Vermont Street,Wodonga,3690,VIC,-36.131791,146.879417
+VIC,Alexandra District Hospital,Alexandra District Hospital,Inner Regional,18,Public acute group C,No,No,Yes,Alexandra District Hospital,03 5772 0900,12 Cooper Street,Alexandra,3714,VIC,-37.195065,145.716143
+VIC,"Alfred, The [Prahran]",Alfred Health (Vic),Major Cities,657,Principal referral,Yes,Yes,Yes,The Alfred,03 9076 2000,55 Commercial Road,Prahran,3181,VIC,-37.846087,144.981937
+VIC,Alpine Health [Bright],Alpine Health (Vic),Outer Regional,9,Public acute group C,No,No,Yes,Alpine Health [Bright],03 5755 0100,36-42 Cobden Street,Bright,3741,VIC,-36.732701,146.965924
+VIC,Alpine Health [Mount Beauty],Alpine Health (Vic),Inner Regional,10,Public acute group D,No,No,Yes,Alpine Health [Mount Beauty],03 5754 3500,10 Hollonds Street,Mt Beauty,3699,VIC,-36.743354,147.169359
+VIC,Alpine Health [Myrtleford],Alpine Health (Vic),Inner Regional,15,Public acute group D,No,No,Yes,Alpine Health [Myrtleford],03 5751 9300,30 O'Donnell Avenue,Myrtleford,3736,VIC,-36.554525,146.728795
+VIC,Angliss Hospital,Eastern Health (Vic),Major Cities,160,Public acute group B,Yes,Yes,Yes,Angliss Hospital,1300 342 255,Albert Street,Upper Ferntree Gully,3156,VIC,-37.898663,145.314166
+VIC,Austin Hospital,Austin Health (Vic),Major Cities,670,Principal referral,Yes,Yes,Yes,Austin Hospital [Heidelberg],03 9496 5000,145 Studley Road,Heidelberg,3084,VIC,-37.756355,145.060236
+VIC,BENDIGO HEALTH - THE BENDIGO HOSPITAL,Bendigo Health Care Group,Inner Regional,440,Public acute group A,Yes,Yes,Yes,The Bendigo Hospital,03 5454 6000,62 Lucan Street,Bendigo,3550,VIC,-36.748727,144.283372
+VIC,Bairnsdale Regional Health Service,Bairnsdale Regional Health Service,Outer Regional,104,Public acute group C,Yes,No,Yes,Bairnsdale Regional Health Service,03 5150 3333,122 Day Street,Bairnsdale,3875,VIC,-37.830814,147.607905
+VIC,Ballarat Health Services [Base Campus],294,Inner Regional,284,Public acute group A,Yes,Yes,Yes,Ballarat Health Services [Base Campus],03 5320 4000,1 Dummond Street North,Ballarat Central,3350,VIC,-37.559658,143.847041
+VIC,Ballarat Health Services [Queen Elizabeth Campus],294,Inner Regional,85,Mixed subacute and non-acute,No,No,Yes,Ballarat Health Services [Queen Elizabeth Campus],03 5320 3700,102 Ascot Street,Ballarat,3350,VIC,-37.564276,143.843264
+VIC,Barwon Health North,Barwon Health,Major Cities,0,Unknown,No,No,Yes,Barwon Health North,03 4215 3700,155 Princess Hwy,Norlane,3214,VIC,-38.08507,144.35727
+VIC,Bass Coast Regional Health,Bass Coast Regional Health,Inner Regional,57,Public acute group C,Yes,No,Yes,Bass Coast Regional Health,03 5671 3333,235 Graham Street,Wonthaggi,3995,VIC,-38.608747,145.580906
+VIC,Beaufort & Skipton Health Service [Beaufort],Beaufort and Skipton Health Service,Inner Regional,5,Very small,No,No,No,Beaufort & Skipton Health Service [Beaufort],03 5349 1600,28 Havelock Street,Beaufort,3373,VIC,-37.431028,143.382284
+VIC,Beaufort & Skipton Health Service [Skipton],Beaufort and Skipton Health Service,Inner Regional,6,Very small,No,No,No,Beaufort & Skipton Health Service [Skipton],03 5340 1100,Blake Street,Skipton,3361,VIC,-37.683998,143.367547
+VIC,Beechworth Health Service,Beechworth Health Service,Inner Regional,13,Public acute group D,No,No,No,Beechworth Health Service,03 5728 0200,52 Sydney Road,Beechworth,3747,VIC,-36.349359,146.690739
+VIC,Benalla & District Memorial Hospital,Benalla and District Memorial Hospital,Inner Regional,55,Public acute group C,No,No,Yes,Benalla & District Memorial Hospital,03 5760 2222,45-53 Coster Street,Benalla,3672,VIC,-36.555239,145.994675
+VIC,Bendigo Health Care Group - Anne Caudle,Bendigo Health Care Group,Inner Regional,0,Mixed subacute and non-acute,No,No,Yes,Bendigo Health Care Group [Anne Caudle],03 5454 6000,100 Barnard Street,Bendigo,3550,VIC,-36.750919,144.280399
+VIC,Boort District Hospital,Boort District Health,Outer Regional,7,Public acute group D,No,No,No,Boort District Health,03 5451 5200,31 Kiniry Street,Boort,3537,VIC,-36.111703,143.727285
+VIC,Box Hill Hospital,Eastern Health (Vic),Major Cities,492,Public acute group A,Yes,Yes,Yes,Box Hill Hospital,1300 342 255,8 Arnold Street,Box Hill,3128,VIC,-37.813682,145.119094
+VIC,Broadmeadows Health Service,Northern Health (Vic),Major Cities,126,Public acute group C,No,Yes,Yes,Broadmeadows Health Service,03 8345 5000,35 Johnstone Street,Broadmeadows,3047,VIC,-37.684321,144.913106
+VIC,Bundoora Extended Care Centre,Northern Health (Vic),Major Cities,77,Rehabilitation and GEM,No,No,Yes,Bundoora Extended Care Centre,03 9495 3100,1231 Plenty Road,Bundoora,3083,VIC,-37.701124,145.055569
+VIC,Calvary Health Care Bethlehem,Calvary Health Care Bethlehem Limited,Major Cities,32,Mixed subacute and non-acute,No,No,Yes,Calvary Health Care Bethlehem,03 9596 2853,476 Kooyong Road,Caulfield,3162,VIC,-37.896962,145.013415
+VIC,Caritas Christi Hospice Ltd [Kew],St Vincent's Hospital (Melbourne) Limited,Major Cities,16,Mixed subacute and non-acute,No,No,No,Caritas Christi Hospice [Kew],03 9231 5000,104 Studley Park Road,Kew,3101,VIC,-37.804706,145.015557
+VIC,Casey Hospital,Monash Health,Major Cities,389,Public acute group B,Yes,Yes,Yes,Casey Hospital,03 8768 1200,52 Kangan Drive,Berwick,3806,VIC,-38.045325,145.347181
+VIC,Casterton Memorial Hospital,Casterton Memorial Hospital,Outer Regional,15,Public acute group D,No,No,No,Casterton Memorial Hospital,03 5554 2555,63-69 Russell Street,Casterton,3311,VIC,-37.589989,141.392283
+VIC,Caulfield General Medical Centre,Alfred Health (Vic),Major Cities,165,Mixed subacute and non-acute,No,No,Yes,Caulfield Hospital,03 9076 6000,260-294 Kooyong Road,Caulfield,3162,VIC,-37.882707,145.016892
+VIC,Central Gippsland Health Service [Maffra],Central Gippsland Health Service,Inner Regional,9,Public acute group D,No,No,No,Central Gippsland Health Service [Maffra],03 5147 0100,48 Kent Street,Maffra,3860,VIC,-37.961032,146.983487
+VIC,Central Gippsland Health Service [Sale],Central Gippsland Health Service,Inner Regional,88,Public acute group A,Yes,No,Yes,Central Gippsland Health Service [Sale],03 5143 8600,155 Guthridge Parade,Sale,3850,VIC,-38.108408,147.080637
+VIC,Cobram District Hospital,NCN Health,Inner Regional,12,Public acute group D,No,No,Yes,Cobram District Hospital,03 5871 0777,24-32 Broadway Street,Cobram,3644,VIC,-35.916273,145.651029
+VIC,Cohuna District Hospital,Cohuna District Hospital,Outer Regional,16,Public acute group C,No,No,Yes,Cohuna District Hospital,03 5456 5300,144-158 King George Street,Cohuna,3568,VIC,-35.800063,144.214911
+VIC,Colac Area Health,Colac Area Health,Inner Regional,33,Public acute group C,No,No,Yes,Colac Area Health,03 5232 5100,2-28 Connor Street,Colac,3250,VIC,-38.341201,143.582854
+VIC,Coleraine District Health Services,Western District Health Service (Vic),Outer Regional,10,Very small,No,No,No,Coleraine District Health Services,03 5553 2000,71 McLeod St,Coleraine,3315,VIC,-37.59912,141.6926
+VIC,Craigieburn Health Service,Northern Health (Vic),Major Cities,14,Other day procedure hospital,No,No,Yes,Craigieburn Health Service,03 8338 3000,274-304 Craigieburn Road,Craigieburn,3064,VIC,-37.596015,144.91928
+VIC,Cranbourne Int Care Centre,Monash Health,Major Cities,22,Other day procedure hospital,No,Yes,Yes,Cranbourne Integrated Care Centre,03 5990 6789,140-154 Sladen Street,Cranbourne,3977,VIC,-38.113312,145.280832
+VIC,Creswick District Hospital,Central Highlands Rural Health,Inner Regional,6,Very small,No,No,No,Creswick District Hospital,03 5345 2403,1 Napier Street,Creswick,3363,VIC,-37.421192,143.891533
+VIC,Dandenong Campus,Monash Health,Major Cities,473,Public acute group A,Yes,Yes,Yes,Dandenong Campus,03 9554 1000,105-135 David Street,Dandenong,3175,VIC,-37.976459,145.218529
+VIC,Daylesford District Hospital,Central Highlands Rural Health,Inner Regional,21,Public acute group D,No,No,No,Daylesford District Hospital,03 5321 6500,13 Hospital Street,Daylesford,3460,VIC,-37.337365,144.145774
+VIC,Dimboola District Hospital,294,Outer Regional,4,Public acute group D,No,No,No,Dimboola District Hospital,03 5389 1301,32-36 Anderson Street,Dimboola,3414,VIC,-36.449887,142.024286
+VIC,Dunmunkle Health Services [Murtoa],West Wimmera Health Service,Outer Regional,2,Outpatient hospital,No,No,Yes,Dunmunkle Health Services [Murtoa],03 5385 2222,24 Marma St,Murtoa,3390,VIC,-36.61911,142.47057
+VIC,East Grampians Health Service [Ararat],East Grampians Health Service,Inner Regional,38,Public acute group C,No,No,Yes,East Grampians Health Service [Ararat],03 5352 9300,Lot 5B Girdlestone Street,Ararat,3377,VIC,-37.278816,142.932858
+VIC,East Grampians Health Service [Willaura],East Grampians Health Service,Outer Regional,8,Very small,No,No,No,East Grampians Health Service [Willaura],03 5354 1600,Delacombe Way,Willaura,3379,VIC,-37.544798,142.74587
+VIC,East Wimmera Health Service [Birchip],East Wimmera Health Service,Outer Regional,8,Very small,No,No,No,East Wimmera Health Service [Birchip],03 5477 7100,26 Duncan Street,Birchip,3483,VIC,-35.980167,142.915891
+VIC,East Wimmera Health Service [Charlton],East Wimmera Health Service,Outer Regional,2,Very small,No,No,No,East Wimmera Health Service [Charlton],03 5477 6800,4 Menzies Street,Charlton,3525,VIC,-36.271037,143.345889
+VIC,East Wimmera Health Service [Donald],East Wimmera Health Service,Outer Regional,13,Public acute group D,No,No,No,East Wimmera Health Service [Donald],03 5478 6200,7 Aitken Avenue,Donald,3480,VIC,-36.366895,142.976583
+VIC,East Wimmera Health Service [St Arnaud],East Wimmera Health Service,Outer Regional,14,Public acute group C,No,No,No,East Wimmera Health Service [St Arnaud],03 5477 2100,52 North Western Road,St Arnaud,3478,VIC,-36.609275,143.246676
+VIC,East Wimmera Health Service [Wycheproof],East Wimmera Health Service,Outer Regional,6,Very small,No,No,No,East Wimmera Health Service [Wycheproof],03 5478 0700,19 Grandview Street,Wycheproof,3527,VIC,-36.078447,143.233779
+VIC,Echuca Regional Health,Echuca Regional Health,Inner Regional,91,Public acute group C,Yes,No,Yes,Echuca Regional Health,03 5485 5000,9-27 Francis Street,Echuca,3564,VIC,-36.138186,144.748369
+VIC,Edenhope & District Hospital,294,Outer Regional,16,Public acute group D,No,No,Yes,Edenhope and District Memorial Hospital,03 5585 9800,128-134 Elizabeth Street,Edenhope,3318,VIC,-37.035323,141.288829
+VIC,Frankston Hospital,Peninsula Health (Vic),Major Cities,470,Public acute group A,Yes,Yes,Yes,Frankston Hospital,03 9784 7777,2 Hastings Road,Frankston,3199,VIC,-38.150791,145.128428
+VIC,Geelong Hospital,Barwon Health,Major Cities,505,Principal referral,Yes,Yes,Yes,University Hospital Geelong,03 4215 0000,Bellerine Street,Geelong,3220,VIC,-38.151533,144.364964
+VIC,Golf Links Road Rehabilitation Centre and PCU,Peninsula Health (Vic),Major Cities,61,Mixed subacute and non-acute,No,No,Yes,Golf Links Road Rehabilitation Centre,03 9783 7277,125 Golf Links Road,Frankston,3199,VIC,-38.173447,145.149769
+VIC,Goulburn Valley Health [Shepparton],Goulburn Valley Health,Inner Regional,251,Public acute group A,Yes,Yes,Yes,Goulburn Valley Health [Shepparton],03 5832 2322,2 Graham Street,Shepparton,3630,VIC,-36.363625,145.404911
+VIC,Goulburn Valley Health [Tatura],Goulburn Valley Health,Inner Regional,8,Very small,No,No,No,Goulburn Valley Health [Tatura],03 5824 8400,64-68 Park Street,Tatura,3616,VIC,-36.439082,145.225535
+VIC,Goulburn Valley Health [Waranga],Goulburn Valley Health,Inner Regional,4,Very small,No,No,No,Goulburn Valley Health [Waranga],03 5851 8050,14 Coyle Street,Rushworth,3612,VIC,-36.587827,145.008593
+VIC,Grace McKellar Centre [Geelong],Barwon Health,Major Cities,87,Rehabilitation and GEM,No,No,Yes,The McKellar Centre,03 5279 2222,45-95 Ballarat Road,North Geelong,3215,VIC,-38.118795,144.335728
+VIC,Hamilton Base Hospital,Western District Health Service (Vic),Inner Regional,72,Public acute group C,Yes,No,Yes,Hamilton Base Hospital,03 5551 8222,20 Foster St,Hamilton,3300,VIC,-37.73645,142.03042
+VIC,Healesville and District Hospital,Eastern Health (Vic),Inner Regional,19,Public acute group C,No,Yes,Yes,Healesville Hospital and Yarra Valley Health,03 5962 4300,377 Maroondah Highway,Healesville,3777,VIC,-37.646879,145.529032
+VIC,Heidelberg Repatriation Hospital,Austin Health (Vic),Major Cities,184,Public acute group C,No,No,Yes,Heidelberg Repatriation Hospital [Heidelberg West],03 9496 5000,300 Waterdale Road,Heidelberg West,3081,VIC,-37.755973,145.04749
+VIC,Hesse Rural Health Service [Winchelsea],Hesse Rural Health Service (Winchelsea),Inner Regional,5,Very small,No,No,No,Hesse Rural Health Service [Winchelsea],03 5267 1200,8 Gosney Street,Winchelsea,3241,VIC,-38.243369,143.985357
+VIC,Heywood Rural Health,Heywood Rural Health,Outer Regional,5,Very small,No,No,No,Heywood Rural Health,03 5527 0555,21 Barclay Street,Heywood,3304,VIC,-38.137788,141.624256
+VIC,Inglewood & District Health Service,Inglewood and District Health Service,Inner Regional,8,Public acute group D,No,No,No,Inglewood & District Health Service,03 5431 7000,3 Hospital Street,Inglewood,3517,VIC,-36.572147,143.873755
+VIC,Kerang District Health,Kerang District Health,Outer Regional,18,Public acute group C,No,No,Yes,Kerang District Health,03 5450 9200,13 Burgoyne Street,Kerang,3579,VIC,-35.724287,143.916563
+VIC,"Kilmore & District Hospital, The",Kilmore and District Hospital,Inner Regional,36,Public acute group C,No,No,Yes,The Kilmore & District Hospital,03 5734 2000,Rutledge Street,Kilmore,3764,VIC,-37.301794,144.957915
+VIC,Kingston Centre [Cheltenham],Monash Health,Major Cities,185,Rehabilitation and GEM,No,No,Yes,Kingston Centre [Cheltenham],03 9265 1000,400 Warrigal Road,Cheltenham,3192,VIC,-37.955018,145.078969
+VIC,Kooweerup Regional Health Service,Kooweerup Regional Health Service,Inner Regional,10,Very small,No,No,Yes,Kooweerup Regional Health Service,03 5997 9679,215 Rossiter Road,Koo Wee Rup,3981,VIC,-38.200653,145.484433
+VIC,Korumburra Hospital,Gippsland Southern Health Service,Inner Regional,15,Public acute group C,No,No,Yes,Korumburra Hospital,03 5654 2777,8 Gordon St,Korumburra,3950,VIC,-38.43004,145.82664
+VIC,Kyabram & District Health Service,Kyabram and District Health Service,Inner Regional,43,Public acute group C,No,No,Yes,Kyabram & District Health Service,03 5857 0200,88 Fenaughty Street,Kyabram,3620,VIC,-36.315539,145.042705
+VIC,Kyneton District Health Service,Central Highlands Rural Health,Inner Regional,24,Public acute group C,No,No,Yes,Kyneton District Health Service,03 5422 9900,7-25 Caroline Chisholm Drive,Kyneton,3444,VIC,-37.254431,144.469742
+VIC,Latrobe Regional Hospital [Traralgon],Latrobe Regional Hospital,Inner Regional,289,Public acute group A,Yes,Yes,Yes,Latrobe Regional Hospital [Traralgon],03 5173 8000,10 Village Avenue,Traralgon,3844,VIC,-38.218475,146.471335
+VIC,Leongatha Memorial Hospital,Gippsland Southern Health Service,Inner Regional,37,Public acute group C,No,No,Yes,Leongatha Memorial Hospital,03 5667 5555,66 Koonwarra Rd,Leongatha,3953,VIC,-38.48684,145.95076
+VIC,Lorne Community Hospital,Great Ocean Road Health,Inner Regional,4,Public acute group D,No,No,No,Lorne Community Hospital,03 5289 4300,1 Albert Street,Lorne,3232,VIC,-38.545513,143.980743
+VIC,MILDURA BASE PUBLIC HOSPITAL,Mildura Base Hospital,Outer Regional,155,Public acute group A,Yes,No,Yes,Mildura Base Hospital,03 5022 3333,Ontario Avenue,Mildura,3502,VIC,-34.185634,142.143348
+VIC,Maldon Hospital,295,Inner Regional,4,Very small,No,No,No,Maldon Hospital,03 5475 2000,Chapel Street,Maldon,3463,VIC,-36.992672,144.063677
+VIC,Mallee Track Health & Community Service,Mallee Track Health and Community Service,Outer Regional,4,Very small,No,No,No,Mallee Track Health & Community Service [Sea Lake],03 5070 2155,33-43 McClelland Avenue,Sea Lake,3533,VIC,-35.500395,142.858003
+VIC,Mallee Track Health & Community Service (Sea Lake),Mallee Track Health and Community Service,Outer Regional,4,Unpeered,No,No,No,Mallee Track Health & Community Service [Sea Lake],03 5070 2155,33-43 McClelland Avenue,Sea Lake,3533,VIC,-35.500395,142.858003
+VIC,Manangatang & District Hospital,Robinvale District Health Services,Outer Regional,6,Very small,No,No,No,Manangatang & District Hospital,03 5035 1500,37 Pioneer Street,Manangatang,3546,VIC,-35.050955,142.880512
+VIC,Mansfield District Hospital,Mansfield District Hospital,Outer Regional,26,Public acute group C,No,No,Yes,Mansfield District Hospital,03 5775 8800,53 Highett Street,Mansfield,3722,VIC,-37.057574,146.086149
+VIC,Maroondah Hospital [East Ringwood],Eastern Health (Vic),Major Cities,256,Public acute group A,Yes,Yes,Yes,Maroondah Hospital [East Ringwood],1300 342 255,Davey Drive,Ringwood East,3135,VIC,-37.806884,145.254535
+VIC,Maryborough District Health Service [Dunolly],Maryborough District Health Service,Inner Regional,4,Very small,No,No,No,Maryborough District Health Service [Dunolly],03 5468 1000,20 Havelock Street,Dunolly,3472,VIC,-36.855269,143.735139
+VIC,Maryborough District Health Service [Maryborough],Maryborough District Health Service,Inner Regional,44,Public acute group C,No,No,Yes,Maryborough District Health Service [Maryborough],03 5461 0333,75-87 Clarendon Street,Maryborough,3465,VIC,-37.044781,143.737692
+VIC,McIvor Health & Community Services [Heathcote],Heathcote Health,Inner Regional,7,Public acute group D,No,No,Yes,Heathcote Health,03 5431 0900,39 Hospital Street,Heathcote,3523,VIC,-36.925786,144.709499
+VIC,Mercy Hospital for Women,Mercy Public Hospital Inc. (Vic),Major Cities,139,Womens,Yes,Yes,Yes,Mercy Hospital for Women,03 8458 4444,163 Studley Road,Heidelberg,3084,VIC,-37.756075,145.061008
+VIC,Mercy Public Hospitals Inc [Werribee],Mercy Public Hospital Inc. (Vic),Major Cities,306,Public acute group B,Yes,Yes,Yes,Mercy Public Hospitals Inc [Werribee],03 8754 3000,300-310 Princess Hwy,Werribee,3030,VIC,-37.88632,144.69862
+VIC,Monash Medical Centre [Clayton],Monash Health,Major Cities,776,Principal referral,Yes,Yes,Yes,Monash Medical Centre [Clayton],03 9594 6666,246 Clayton Road,Clayton,3168,VIC,-37.921176,145.123128
+VIC,Monash Medical Centre [Moorabbin],Monash Health,Major Cities,112,Public acute group A,No,Yes,Yes,Monash Medical Centre [Moorabbin],03 9928 8111,823-865 Centre Road,East Bentleigh,3165,VIC,-37.920697,145.063197
+VIC,Mount Alexander Hospital [Castlemaine],295,Inner Regional,45,Public acute group C,No,No,Yes,Mount Alexander Hospital [Castlemaine],03 5471 1555,142 Cornish ,Catlemaine,3450,VIC,-36.78148,144.20002
+VIC,Moyne Health Services [Port Fairy],Moyne Health Services (Port Fairy),Inner Regional,12,Public acute group D,No,No,No,Moyne Health Services [Port Fairy],03 5568 0100,30-36 Villiers Street,Port Fairy,3284,VIC,-38.381599,142.227523
+VIC,Nathalia District Hospital,NCN Health,Inner Regional,6,Very small,No,No,No,Nathalia District Hospital,03 5866 9444,36-44 McDonnell Street,Nathalia,3638,VIC,-36.054754,145.204324
+VIC,Northeast Health Wangaratta,Northeast Health Wangaratta,Inner Regional,144,Public acute group A,Yes,Yes,Yes,Northeast Health Wangaratta,03 5722 5111,35-47 Green Street,Wangaratta,3677,VIC,-36.354035,146.313889
+VIC,"Northern Hospital, The [Epping]",Northern Health (Vic),Major Cities,529,Public acute group A,Yes,Yes,Yes,The Northern Hospital [Epping],03 8405 8000,185 Cooper Street,Epping,3076,VIC,-37.653417,145.014381
+VIC,Numurkah & District Health Service,NCN Health,Inner Regional,21,Public acute group D,No,No,Yes,Numurkah & District Health Service,03 5862 0555,2 Katamatite Road,Numurkah,3636,VIC,-36.100001,145.443695
+VIC,OConnell Family Centre (Grey Sisters) Inc. [Canterbury],Mercy Public Hospital Inc. (Vic),Major Cities,13,Early parenting centres,No,No,No,Mercy Health - O'Connell Family Centre,03 8416 7600,6 Mont Albert Road,Canterbury,3126,VIC,-37.816688,145.061729
+VIC,Old Geelong Private,Barwon Health,Major Cities,0,Unknown,No,No,No,Old Geelong Private,03 4215 0000,56-58 Bellerine Street,Geelong,3220,VIC,-38.15037,144.36412
+VIC,Omeo District Health,Omeo District Health,Outer Regional,4,Very small,No,No,Yes,Omeo District Health,03 5159 0100,12 Easton Street,Omeo,3898,VIC,-37.098142,147.597321
+VIC,Orbost Regional Health,Orbost Regional Health,Outer Regional,14,Public acute group C,No,No,No,Orbost Regional Health,03 5154 6666,104 Boundary Road,Orbost,3888,VIC,-37.701844,148.464957
+VIC,Orygen Inpatient Unit,Melbourne Health,Major Cities,17,Psychiatric,No,No,No,Orygen Inpatient Unit,03 8345 7550,35 Mavis Street,Footscray,3011,VIC,-37.791926,144.886617
+VIC,Otway Health & Community Services [Apollo Bay],Great Ocean Road Health,Inner Regional,4,Very small,No,No,No,Otway Health & Community Services [Apollo Bay],03 5237 8500,37-43 Mclachlan Street,Apollo Bay,3233,VIC,-38.753853,143.664264
+VIC,Penshurst & District Memorial,Western District Health Service (Vic),Outer Regional,6,Very small,No,No,No,Penshurst & District Memorial,03 5552 3000,Cobb St,Penshurst,3289,VIC,-37.877558,142.28235
+VIC,"Peter James Centre, The [East Burwood]",Eastern Health (Vic),Major Cities,119,Mixed subacute and non-acute,No,No,Yes,The Peter James Centre [East Burwood],03 9881 1888,321-345 Burwood Highway,Forest Hill,3131,VIC,-37.852712,145.164542
+VIC,Peter MacCallum Cancer Institute [East Melbourne],Peter MacCallum Cancer Institute (Vic),Major Cities,209,Other public acute specialised,No,Yes,Yes,Peter MacCallum Cancer Centre,03 9656 1111,305 Grattan Street,Melbourne,3000,VIC,-37.80001,144.956607
+VIC,Philip Island Health hub,Bass Coast Regional Health,Inner Regional,0,Unknown,No,No,No,Philip Island Health hub,03 5951 2100,50 Church St,Cowes,3922,VIC,-38.45129,145.2414
+VIC,Portland District Health,Portland District Health,Outer Regional,53,Public acute group C,No,No,Yes,Portland District Health,03 5521 0333,Bentinck Street,Portland,3305,VIC,-38.340713,141.606087
+VIC,Queen Elizabeth Centre [Noble Park],,Major Cities,8,Early parenting centres,No,No,No,Queen Elizabeth Centre [Noble Park],03 9549 2777,53 Thomas Street,Noble Park,3174,VIC,-37.972053,145.178285
+VIC,Robinvale District Health Services,Robinvale District Health Services,Outer Regional,14,Public acute group D,No,No,Yes,Robinvale District Health Services,03 5051 8111,128-132 Latje Road,Robinvale,3549,VIC,-34.584146,142.781367
+VIC,Rochester & Elmore District Health Service,Rochester and Elmore District Health Service,Inner Regional,10,Public acute group D,No,No,No,Rochester & Elmore District Health Service,03 5484 4400,1 Pascoe Street,Rochester,3561,VIC,-36.366579,144.697751
+VIC,Rosebud Hospital,Peninsula Health (Vic),Major Cities,75,Public acute group B,Yes,No,Yes,Rosebud Hospital,03 5986 0666,1527 Point Nepean Road,Rosebud,3939,VIC,-38.362168,144.884899
+VIC,Royal Childrens Hospital [Parkville],Royal Children's Hospital (Melbourne),Major Cities,308,Childrens,Yes,Yes,Yes,Royal Children's Hospital [Parkville],03 9345 5522,50 Flemington Road,Parkville,3052,VIC,-37.794997,144.950859
+VIC,Royal Dental Hospital [Melbourne],,Major Cities,20,Unpeered,No,No,No,Royal Dental Hospital [Melbourne],03 9341 1000,720 Swanston St,Carlton,3053,VIC,-37.79864,144.96518
+VIC,Royal Melbourne Hospital - City Campus,Melbourne Health,Major Cities,735,Principal referral,Yes,Yes,Yes,Royal Melbourne Hospital [Parkville],03 9342 7000,300 Grattan Street,Parkville,3050,VIC,-37.799259,144.956864
+VIC,Royal Melbourne Hospital - Royal Park Campus,Melbourne Health,Major Cities,73,Rehabilitation and GEM,No,No,Yes,Royal Melbourne Hospital- Royal Park Campus,03 8387 2000,34-54 Poplar Road,Parkville,3052,VIC,-37.778813,144.948049
+VIC,Royal Talbot Rehabilitation Centre [Kew],Austin Health (Vic),Major Cities,75,Rehabilitation and GEM,No,No,Yes,Royal Talbot Rehabilitation Centre [Kew],03 9490 7500,1 Yarra Boulevard,Kew,3101,VIC,-37.789522,145.023715
+VIC,"Royal Victorian Eye & Ear Hospital, The [East Melbourne]",Royal Victorian Eye and Ear Hospital,Major Cities,60,Other public acute specialised,Yes,Yes,Yes,The Royal Victorian Eye & Ear Hospital,03 9929 8666,32 Gisborne Street,East Melbourne,3002,VIC,-37.808978,144.976245
+VIC,Royal Womens Hospital [Carlton],Royal Women's Hospital (Melbourne),Major Cities,203,Womens,Yes,Yes,Yes,Royal Womens Hospital [Carlton],03 8345 2000,20 Flemington Rd,Parkville,3052,VIC,-37.63999,144.96929
+VIC,Rural Northwest Health [Hopetoun],Rural Northwest Health (Vic),Outer Regional,4,Very small,No,No,No,Rural Northwest Health [Hopetoun],03 5083 2000,12 Mitchell Place,Hopetoun,3396,VIC,-35.732201,142.366411
+VIC,Rural Northwest Health [Warracknabeal],Rural Northwest Health (Vic),Outer Regional,11,Public acute group D,No,No,No,Rural Northwest Health [Warracknabeal],03 5396 1200,18 Dimboola Road,Warracknabeal,3393,VIC,-36.252614,142.381609
+VIC,Sandringham & District Memorial Hospital,Alfred Health (Vic),Major Cities,68,Public acute group B,Yes,Yes,Yes,Sandringham Hospital,03 9076 1000,193 Bluff Road,Sandringham,3191,VIC,-37.961049,145.018157
+VIC,Seymour District Memorial Hospital,Seymour District Memorial Hospital,Inner Regional,43,Public acute group C,No,No,Yes,Seymour District Memorial Hospital,03 5793 6100,1 Brettoneaux Street,Seymour,3660,VIC,-37.018384,145.138771
+VIC,South Gippsland Hospital [Foster],South Gippsland Hospital (Foster),Inner Regional,16,Public acute group C,No,No,Yes,South Gippsland Hospital [Foster],03 5683 9777,87 Station Road,Foster,3960,VIC,-38.658319,146.207031
+VIC,South West Healthcare [Camperdown],South West Healthcare (Vic),Inner Regional,25,Public acute group C,No,No,Yes,South West Healthcare [Camperdown],03 5593 7300,9 Robinson Street,Camperdown,3260,VIC,-38.237101,143.137714
+VIC,South West Healthcare [Warrnambool],South West Healthcare (Vic),Inner Regional,171,Public acute group A,Yes,Yes,Yes,South West Healthcare [Warrnambool],03 5563 1666,Ryot Street,Warrnambool,3280,VIC,-38.380085,142.472977
+VIC,St Georges Health - Aged Care,St Vincent's Hospital (Melbourne) Limited,Major Cities,91,Mixed subacute and non-acute,No,No,Yes,St George's Health Service- Aged Care,03 9816 0444,283 Cotham Road,Kew,3101,VIC,-37.809085,145.052585
+VIC,St Vincent's on the Park,St Vincent's Hospital (Melbourne) Limited,Major Cities,107,Rehabilitation and GEM,No,No,No,St Vincent's on the Park,03 9075 2600,11 Cathedral Pl,East Melbourne,3002,VIC,-37.811150,144.977840
+VIC,St Vincents Hospital,St Vincent's Hospital (Melbourne) Limited,Major Cities,466,Principal referral,Yes,Yes,Yes,St Vincent's Hospital [Fitzroy],03 9288 2211,41 Victoria Parade,Fitzroy,3065,VIC,-37.806545,144.975231
+VIC,Stawell Regional Health,294,Inner Regional,40,Public acute group C,No,No,Yes,Stawell Regional Health,03 5358 8500,27-29 Sloane Street,Stawell,3380,VIC,-37.059577,142.781603
+VIC,Sunbury Day Hospital,Western Health (Vic),Major Cities,16,Other day procedure hospital,No,No,Yes,Sunbury Day Hospital,03 9732 8600,7 Macedon Street,Sunbury,3429,VIC,-37.576998,144.732674
+VIC,Sunshine Hospital,Western Health (Vic),Major Cities,604,Public acute group A,Yes,Yes,Yes,Sunshine Hospital,03 8345 1333,176 Furlong Road,St Albans,3021,VIC,-37.759179,144.816477
+VIC,Swan Hill District Hospital [Nyah],Swan Hill District Health,Outer Regional,0,Very small,No,No,No,Swan Hill District Health [Nyah],03 5030 2572,Monash Avenue,Nyah West,3595,VIC,-35.186052,143.355428
+VIC,Swan Hill District Hospital [Swan Hill],Swan Hill District Health,Outer Regional,72,Public acute group C,Yes,No,Yes,Swan Hill District Health [Swan Hill],03 5033 9300,48 Splatt Street,Swan Hill,3585,VIC,-35.340588,143.556514
+VIC,Tallangatta Health Service,Tallangatta Health Service,Outer Regional,6,Very small,No,No,No,Tallangatta Health Service,02 6071 5200,25 Barree Street,Tallangatta,3700,VIC,-36.213705,147.183709
+VIC,Terang & Mortlake Health Service [Terang],Terang and Mortlake Health Service (Terang),Inner Regional,14,Public acute group D,No,No,No,Terang & Mortlake Health Service [Terang],03 5592 0222,13 Austin Avenue,Terang,3264,VIC,-38.239388,142.902119
+VIC,The Mornington Centre,Peninsula Health (Vic),Major Cities,94,Rehabilitation and GEM,No,No,Yes,The Mornington Centre,03 5976 2733,Corner of Tyalla Grove and Separation Street,Mornington,3931,VIC,-38.230174,145.041697
+VIC,Timboon & District Healthcare Service,Timboon and District Healthcare Service,Outer Regional,19,Public acute group D,No,No,Yes,Timboon & District Healthcare Service,03 5558 6000,21 Hospital Road,Timboon,3268,VIC,-38.486231,142.976717
+VIC,Tweddle Child & Family Health Centre [Footscray],,Major Cities,22,Early parenting centres,No,No,No,Tweddle Child & Family Health Centre [Footscray],03 9689 1577,53 Adelaide Street,Footscray,3011,VIC,-37.797407,144.887421
+VIC,Upper Murray Health & Community Services [Corryong],Upper Murray Health and Community Services (Corryong),Outer Regional,10,Public acute group D,No,No,No,Upper Murray Health & Community Services [Corryong],02 6076 3200,20 Kiell Street,Corryong,3707,VIC,-36.198711,147.902798
+VIC,Ursula Frayne Centre,Mercy Public Hospital Inc. (Vic),Major Cities,16,Psychiatric,No,No,No,Ursula Frayne Centre,03 9319 7000,35 Mavis Street,Footscray,3011,VIC,-37.791148,144.886747
+VIC,Victorian Institute of Forensic Mental Health,Victorian Institute of Forensic Mental Health,Major Cities,172,Psychiatric,No,No,No,Victorian Institute of Forensic Mental Health,03 8684 0000,Yarra Bend Road,Fairfield,3078,VIC,-37.78931,145.012975
+VIC,WESTERN HEALTH - BACCHUS MARSH,Western Health (Vic),Major Cities,38,Public acute group C,No,No,Yes,WESTERN HEALTH - BACCHUS MARSH,03 5367 2000,29-35 Grant St,Bacchus Marsh,3340,VIC,-37.67785,144.43456
+VIC,WESTERN HEALTH - MELTON HEALTH,Western Health (Vic),Major Cities,18,Unpeered,No,No,Yes,WESTERN HEALTH - MELTON HEALTH,03 9747 7600,195-209 Barries Rd,Melton West,3337,VIC,-37.68587,144.55809
+VIC,Wantirna Health,Eastern Health (Vic),Major Cities,60,Mixed subacute and non-acute,No,No,Yes,Wantirna Health,03 9955 1200,251 Mountain Highway,Wantirna,3152,VIC,-37.848525,145.225902
+VIC,West Gippsland Healthcare Group [Warragul],West Gippsland Healthcare Group,Inner Regional,100,Public acute group B,Yes,Yes,Yes,West Gippsland Healthcare Group [Warragul],03 5623 0611,41 Landsborough Street,Warragul,3820,VIC,-38.173009,145.926804
+VIC,West Wimmera Health Service [Jeparit],West Wimmera Health Service,Outer Regional,4,Very small,No,No,No,West Wimmera Health Service [Jeparit],03 5391 4222,2 Charles Street,Jeparit,3423,VIC,-36.141132,141.984686
+VIC,West Wimmera Health Service [Kaniva],West Wimmera Health Service,Outer Regional,6,Very small,No,No,No,West Wimmera Health Service [Kaniva],03 5391 4222,9 Farmers Street,Kaniva,3419,VIC,-36.381386,141.246006
+VIC,West Wimmera Health Service [Nhill],West Wimmera Health Service,Outer Regional,21,Public acute group C,No,No,Yes,West Wimmera Health Service [Nhill],03 5391 4222,45 Nelson Street,Nhill,3418,VIC,-36.334003,141.655579
+VIC,West Wimmera Health Service [Rainbow],West Wimmera Health Service,Remote,7,Very small,No,No,No,West Wimmera Health Service [Rainbow],03 5391 4222,2 Swinbourne Avenue,Rainbow,3424,VIC,-35.903874,141.995112
+VIC,Western Hospital [Footscray],Western Health (Vic),Major Cities,227,Public acute group A,Yes,Yes,Yes,Western Hospital [Footscray],03 8345 6666,160 Gordon Street,Footscray,3011,VIC,-37.792298,144.887191
+VIC,Williamstown Hospital,Western Health (Vic),Major Cities,75,Public acute group B,Yes,Yes,Yes,Williamstown Hospital,03 9393 0100,77B Railway Crescent,Williamstown,3016,VIC,-37.863576,144.892339
+VIC,Wimmera Base Hospital [Horsham],294,Outer Regional,92,Public acute group C,Yes,No,Yes,Wimmera Base Hospital [Horsham],03 5381 9111,83 Baillie Street,Horsham,3400,VIC,-36.712441,142.208522
+VIC,Womens Sandringham,Royal Women's Hospital (Melbourne),Major Cities,31,Womens,No,Yes,Yes,Women's at Sandringham,03 9076 1000,193 Bluff Road,Sandringham,3191,VIC,-37.961049,145.018157
+VIC,Yarra Ranges Health,Eastern Health (Vic),Major Cities,16,Other day procedure hospital,No,Yes,Yes,Yarra Ranges Health,1300 342 255,25 Market Street,Lilydale,3140,VIC,-37.756319,145.351204
+VIC,Yarram & District Health Service,Yarram and District Health Service,Inner Regional,14,Public acute group D,No,No,Yes,Yarram & District Health Service,03 5182 0222,85-91 Commercial Road,Yarram,3971,VIC,-38.556975,146.678316
+VIC,Yarrawonga District Health Service,Yarrawonga District Health Service,Inner Regional,29,Public acute group C,No,No,Yes,Yarrawonga District Health Service,03 5743 8111,33 Piper Street,Yarrawonga,3730,VIC,-36.011547,146.006584
+VIC,Yea & District Memorial Hospital,Yea and District Memorial Hospital,Inner Regional,10,Public acute group D,No,No,No,Yea & District Memorial Hospital,03 5736 0400,45 Station Street,Yea,3717,VIC,-37.213634,145.430724
+WA,Albany Hospital,WA Country Health Service,Outer Regional,134.3,Public acute group B,Yes,Yes,Yes,Albany Hospital,08 9892 2222,Warden Avenue,Albany,6330,WA,-35.003407,117.904468
+WA,Armadale-Kelmscott Memorial Hospital,East Metropolitan Health Service (WA),Major Cities,241,Public acute group A,Yes,Yes,Yes,Armadale-Kelmscott Memorial Hospital,08 9391 2000,3056 Albany Highway,Armadale,6112,WA,-32.133212,116.020023
+WA,Augusta Hospital,WA Country Health Service,Inner Regional,6.3,Public acute group D,No,No,Yes,Augusta Hospital,08 9758 3222,Donovan Street,Augusta,6290,WA,-34.305814,115.157983
+WA,Bentley Hospital,East Metropolitan Health Service (WA),Major Cities,161,Unpeered,No,Yes,Yes,Bentley Hospital,08 9416 3666,18-56 Mills Street,Bentley,6102,WA,-32.005332,115.927922
+WA,Beverley Hospital,WA Country Health Service,Outer Regional,6.8,Very small,No,No,Yes,Beverley Hospital,08 9646 3200,Sewell Street,Beverley,6304,WA,-32.102825,116.922962
+WA,Boddington Hospital,WA Country Health Service,Inner Regional,8,Very small,No,No,Yes,Boddington Hospital,08 9883 4444,46-53 Hotham Avenue,Boddington,6390,WA,-32.803715,116.475774
+WA,Boyup Brook Soldiers Memorial Hospital,WA Country Health Service,Outer Regional,4.6,Very small,No,No,Yes,Boyup Brook Soldiers Memorial Hospital,08 9765 0222,Hospital Road,Boyup Brook,6244,WA,-33.839231,116.390639
+WA,Bridgetown Hospital,WA Country Health Service,Inner Regional,30.1,Public acute group C,No,Yes,Yes,Bridgetown Hospital,08 9782 1222,16-18 Peninsula Road,Bridgetown,6255,WA,-33.951681,116.132183
+WA,Broome Hospital,WA Country Health Service,Remote,68.6,Public acute group C,Yes,Yes,Yes,Broome Hospital,08 9194 2222,Robinson Street,Broome,6725,WA,-17.960975,122.236289
+WA,Bruce Rock Memorial Hospital,WA Country Health Service,Remote,2.5,Very small,No,No,Yes,Bruce Rock Memorial Hospital,08 9061 1311,35 Dunstall Street,Bruce Rock,6418,WA,-31.873038,118.146414
+WA,Bunbury Hospital,WA Country Health Service,Inner Regional,191.7,Public acute group B,Yes,Yes,Yes,Bunbury Hospital,08 9722 1000,Corner of Robertson Drive and Bussell Highway,Bunbury,6230,WA,-33.366986,115.648183
+WA,Busselton Hospital,WA Country Health Service,Inner Regional,84,Public acute group C,Yes,Yes,Yes,Busselton Health Campus,08 9753 6000,Mill Road,Busselton,6280,WA,-33.654351,115.319581
+WA,Carnarvon Hospital,WA Country Health Service,Very Remote,30.4,Public acute group C,Yes,Yes,Yes,Carnarvon Hospital,08 9941 0555,Cleaver Street,Carnarvon,6701,WA,-24.886592,113.658993
+WA,Collie Hospital,WA Country Health Service,Inner Regional,36.8,Public acute group C,No,Yes,Yes,Collie Hospital,08 9735 1333,Corner of Steere and Deakin Streets,Collie,6225,WA,-33.351403,116.162223
+WA,Corrigin Hospital,WA Country Health Service,Remote,3.8,Very small,No,No,Yes,Corrigin Hospital,08 9063 0333,49 Kirkwood Street,Corrigin,6375,WA,-32.324419,117.878816
+WA,Dalwallinu Hospital,WA Country Health Service,Remote,7.6,Public acute group D,No,No,Yes,Dalwallinu Hospital,08 9661 0200,Myers Street,Dalwallinu,6609,WA,-30.277229,116.656544
+WA,Denmark Hospital,WA Country Health Service,Outer Regional,6.9,Public acute group D,No,No,Yes,Denmark Hospital and Health Service,08 9848 0600,50 Scotsdale Road,Denmark,6333,WA,-34.957977,117.353489
+WA,Derby Hospital,WA Country Health Service,Very Remote,40,Public acute group C,Yes,Yes,Yes,Derby Hospital,08 9193 3333,Clarendon Street,Derby,6728,WA,-17.306339,123.633399
+WA,Dongara Multi-Purpose Health Centre,WA Country Health Service,Outer Regional,3,Very small,No,No,Yes,Dongara Eneabba Mingenew Health Service,08 9927 0200,48 Blenheim Road,Dongara,6525,WA,-29.265173,114.934179
+WA,Donnybrook Hospital,WA Country Health Service,Inner Regional,17.3,Very small,No,No,Yes,Donnybrook Hospital,08 9780 4333,Bentley Street,Donnybrook,6239,WA,-33.576942,115.816547
+WA,Dumbleyung Memorial Hospital,WA Country Health Service,Remote,0,Very small,No,No,Yes,Dumbleyung Memorial Hospital,08 9863 5222,Mcintyre Street,Dumbleyung,6350,WA,-33.310409,117.740499
+WA,Esperance Hospital,WA Country Health Service,Remote,36,Public acute group C,Yes,Yes,Yes,Esperance Hospital,08 9071 0888,Hicks Street,Esperance,6450,WA,-33.856188,121.892205
+WA,Exmouth Hospital,WA Country Health Service,Very Remote,6,Public acute group D,No,No,Yes,Exmouth Hospital,08 9949 3666,Lyon Street,Exmouth,6707,WA,-21.928276,114.119882
+WA,Fiona Stanley Hospital,South Metropolitan Health Service (WA),Major Cities,814,Principal referral,Yes,Yes,Yes,Fiona Stanley Hospital,08 6152 2222,11 Robin Warren Drive,Murdoch,6150,WA,-32.07012,115.846909
+WA,Fitzroy Crossing Hospital,WA Country Health Service,Very Remote,12,Public acute group D,No,No,Yes,Fitzroy Crossing Hospital,08 9166 1777,Fallon Road,Fitzroy Crossing,6765,WA,-18.191439,125.562765
+WA,Fremantle Hospital,South Metropolitan Health Service (WA),Major Cities,282,Public acute group A,No,Yes,Yes,Fremantle Hospital,08 9431 3333,Alma Street,Fremantle,6160,WA,-32.058263,115.751448
+WA,Geraldton Hospital,WA Country Health Service,Outer Regional,96,Public acute group B,Yes,Yes,Yes,Geraldton Hospital,08 9956 2222,51-85 Shenton Street,Geraldton,6530,WA,-28.782808,114.610844
+WA,Gnowangerup Hospital,WA Country Health Service,Remote,5.3,Very small,No,No,Yes,Gnowangerup Hospital,08 9827 2222,Yougenup Road,Gnowangerup,6335,WA,-33.930469,118.002927
+WA,Goomalling Hospital,WA Country Health Service,Outer Regional,2.9,Very small,No,No,Yes,Goomalling Hospital,08 9629 0100,Forrest Street,Goomalling,6460,WA,-31.303928,116.831102
+WA,Graylands Hospital,North Metropolitan Health Service (WA),Major Cities,117,Psychiatric,No,No,Yes,Graylands Selby-Lemnos and Special Care Health Service,08 9347 6600,Brockway Road,Mount Claremont,6010,WA,-31.961447,115.790855
+WA,Halls Creek Hospital,WA Country Health Service,Very Remote,8,Public acute group D,No,No,Yes,Halls Creek Hospital,08 9168 9222,70 Roberta Avenue,Halls Creek,6770,WA,-18.226008,127.666046
+WA,Harvey Hospital,WA Country Health Service,Inner Regional,22,Public acute group D,No,No,Yes,Harvey Hospital,08 9782 2222,42 Hayward Street,Harvey,6220,WA,-33.077554,115.896749
+WA,Hedland Health Campus,WA Country Health Service,Remote,71,Public acute group C,Yes,Yes,Yes,Hedland Health Campus,08 9174 1410,34 Colebatch Way,South Hedland,6722,WA,-20.413541,118.598178
+WA,Joondalup Health Campus,North Metropolitan Health Service (WA),Major Cities,509,Public acute group A,Yes,Yes,Yes,Joondalup Health Campus (Public),08 9400 9030,Shenton Avenue,Joondalup,6027,WA,-31.738788,115.771737
+WA,Kalamunda Hospital,East Metropolitan Health Service (WA),Major Cities,28,Public acute group D,No,No,Yes,Kalamunda Hospital,08 9257 8100,Elizabeth Street,Kalamunda,6076,WA,-31.966471,116.060267
+WA,Kalbarri Health Centre,WA Country Health Service,Remote,4,Very small,No,No,Yes,Kalbarri Health Centre,08 9937 0100,Kaiber Street,Kalbarri,6536,WA,-27.712843,114.161574
+WA,Kalgoorlie Hospital,WA Country Health Service,Outer Regional,130.8,Public acute group B,Yes,Yes,Yes,Kalgoorlie Hospital,08 9080 5888,Piccadilly Street,Kalgoorlie,6430,WA,-30.740839,121.470122
+WA,Karratha Health Campus,WA Country Health Service,Remote,47,Public acute group C,Yes,Yes,Yes,Karratha Health Campus,08 9144 7777,62 Balmoral Rd,Karratha ,6714,WA,-20.732208,116.839511
+WA,Katanning Hospital,WA Country Health Service,Outer Regional,10.2,Public acute group C,No,Yes,Yes,Katanning Hospital,08 9821 6222,Clive Street,Katanning,6317,WA,-33.683032,117.563409
+WA,Kellerberrin Memorial Hospital,WA Country Health Service,Outer Regional,3.8,Very small,No,No,Yes,Kellerberrin Memorial Hospital,08 9045 6222,51-63 Gregory Street,Kellerberrin,6410,WA,-31.628902,117.716531
+WA,King Edward Memorial Hospital for Women,North Metropolitan Health Service (WA),Major Cities,205,Womens,Yes,Yes,Yes,King Edward Memorial Hospital for Women,08 9340 2222,374 Bagot Road,Subiaco,6008,WA,-31.950093,115.818576
+WA,Kojonup Hospital,WA Country Health Service,Outer Regional,6.3,Very small,No,No,Yes,Kojonup Hospital,08 9831 2222,Spring Street,Kojonup,6395,WA,-33.829481,117.152903
+WA,Kondinin Hospital,WA Country Health Service,Remote,3.9,Very small,No,No,Yes,Kondinin Districts Health Service,08 9889 1000,130 Graham Street,Kondinin,6367,WA,-32.488949,118.265439
+WA,Kununoppin Hospital,WA Country Health Service,Remote,4.8,Very small,No,No,Yes,Kununoppin Health Service,08 9683 2044,Leake Street,Kununoppin,6489,WA,-31.109682,117.922889
+WA,Kununurra Hospital,WA Country Health Service,Very Remote,34,Public acute group C,Yes,Yes,Yes,Kununurra Hospital,08 9166 4222,96 Coolibah Drive,Kununurra,6743,WA,-15.775404,128.734229
+WA,Lake Grace Hospital,WA Country Health Service,Remote,2.8,Very small,No,No,Yes,Lake Grace Hospital,08 9890 2222,Stubbs Street,Lake Grace,6353,WA,-33.102524,118.452658
+WA,Laverton Hospital,WA Country Health Service,Very Remote,4,Very small,No,No,Yes,Laverton Hospital,08 9088 2600,Beria Road,Laverton,6440,WA,-28.626817,122.399861
+WA,Leonora Hospital,WA Country Health Service,Very Remote,8,Very small,No,No,Yes,Leonora Hospital,08 9080 4300,Sadie Canning Drive,Leonora,6438,WA,-28.894319,121.337492
+WA,Margaret River Hospital,WA Country Health Service,Inner Regional,20.8,Public acute group C,No,Yes,Yes,Margaret River Hospital,08 9757 0400,Farrelly Street,Margaret River,6285,WA,-33.952162,115.071229
+WA,Meekatharra Hospital,WA Country Health Service,Very Remote,7.1,Public acute group D,No,No,Yes,Meekatharra Hospital,08 9981 0600,Savage Street,Meekatharra,6642,WA,-26.591366,118.491861
+WA,Merredin Hospital,WA Country Health Service,Outer Regional,14.6,Public acute group D,No,Yes,Yes,Merredin Health Service,08 9081 3222,Kitchener Road,Merredin,6415,WA,-31.485204,118.276491
+WA,Moora Hospital,WA Country Health Service,Outer Regional,11.9,Public acute group D,No,No,Yes,Moora Hospital,08 9651 0222,Dandaragan Road,Moora,6510,WA,-30.639557,116.001119
+WA,Morawa Hospital,WA Country Health Service,Remote,4.7,Very small,No,No,Yes,Morawa Hospital,08 9971 0200,Calfield Rd,Morowa,6623,WA,-29.21172,116.0046
+WA,Mullewa Hospital,WA Country Health Service,Remote,1,Very small,No,No,Yes,Mullewa Health Service,08 9961 6200,Elder Street,Mullewa,6630,WA,-28.535991,115.510017
+WA,Murray Hospital,South Metropolitan Health Service (WA),Major Cities,15,Public acute group D,No,No,Yes,Murray District Hospital,08 9531 7222,McKay Street,Pinjarra,6208,WA,-32.639709,115.871589
+WA,Nannup Hospital,WA Country Health Service,Outer Regional,1,Very small,No,No,Yes,Nannup Hospital,08 9756 3800,Carey Street,Nannup,6275,WA,-33.982797,115.76723
+WA,Narembeen Memorial Hospital,WA Country Health Service,Remote,3.7,Very small,No,No,Yes,Narembeen Memorial Hospital,08 9064 6222,Ada Street,Narembeen,6369,WA,-32.061618,118.391289
+WA,Narrogin Hospital,WA Country Health Service,Outer Regional,51,Public acute group C,Yes,Yes,Yes,Narrogin Hospital,08 9881 0333,Williams Road,Narrogin,6312,WA,-32.937341,117.168459
+WA,Newman Hospital,WA Country Health Service,Very Remote,12,Public acute group D,No,No,Yes,Newman Hospital,08 9175 8333,54 Mindarra Drive,Newman,6753,WA,-23.354824,119.736503
+WA,"Next Step Drug And Alcohol Services, East Perth",East Metropolitan Health Service (WA),Major Cities,17,Drug and alcohol hospital,No,No,No,"Next Step Drug And Alcohol Services, East Perth",08 9219 1919,32 Moore Street,East Perth,6004,WA,-31.953405,115.869171
+WA,Norseman Hospital,WA Country Health Service,Very Remote,5,Very small,No,No,Yes,Norseman Hospital,08 9039 9200,Talbot Street,Norseman,6443,WA,-32.198566,121.767663
+WA,North Midlands Hospital,WA Country Health Service,Remote,5,Very small,No,No,Yes,North Midlands Health Service,08 9954 3200,Thomas Street,Three Springs,6519,WA,-29.534221,115.759184
+WA,Northam Hospital,WA Country Health Service,Inner Regional,61,Public acute group C,Yes,Yes,Yes,Northam Hospital,08 9690 1300,Robinson Street,Northam,6401,WA,-31.649582,116.657681
+WA,Northampton Hospital,WA Country Health Service,Outer Regional,4.3,Very small,No,No,Yes,Northampton Hospital,08 9934 0200,103 Stephen St,Northampton,6535,WA,-28.35066,114.63493
+WA,Onslow Hospital,WA Country Health Service,Very Remote,6,Public acute group D,No,No,Yes,Onslow Hospital,08 9184 3200,Second Avenue,Onslow,6710,WA,-21.643238,115.115389
+WA,Osborne Park Hospital,North Metropolitan Health Service (WA),Major Cities,173,Public acute group C,No,Yes,Yes,Osborne Park Hospital,08 9346 8000,Osborne Place,Stirling,6021,WA,-31.885976,115.804717
+WA,Paraburdoo Hospital,WA Country Health Service,Very Remote,4,Very small,No,No,Yes,Paraburdoo Hospital,08 9159 8222,Lot 608 Rocklea Road,Paraburdoo,6754,WA,-23.203031,117.670633
+WA,Peel Health Campus,South Metropolitan Health Service (WA),Major Cities,209,Public acute group B,Yes,Yes,Yes,Peel Health Campus,08 9531 8000,110 Lakes Road,Mandurah,6210,WA,-32.532573,115.763504
+WA,Pemberton Hospital,WA Country Health Service,Outer Regional,8.6,Public acute group D,No,No,Yes,Pemberton Hospital,08 9776 4000,Railway Cresent,Pemberton,6260,WA,-34.444875,116.031954
+WA,Perth Children's Hospital,Child Adolescent Health Service (WA),Major Cities,282,Childrens,Yes,Yes,Yes,Perth Children's Hospital,08 6456 2222,15 Hospital Ave,Nedlands,6009,WA,-31.969503,115.817165
+WA,Plantagenet Hospital,WA Country Health Service,Outer Regional,11.5,Public acute group D,No,No,Yes,Plantagenet Hospital,08 9892 1222,Langton Road,Mount Barker,6324,WA,-34.626092,117.654561
+WA,Quairading Hospital,WA Country Health Service,Outer Regional,3.5,Very small,No,No,Yes,Quairading Hospital,08 9645 1100,Harris Street,Quairading,6383,WA,-32.014481,117.402627
+WA,Ravensthorpe Hospital,WA Country Health Service,Very Remote,3.9,Very small,No,No,Yes,Ravensthorpe Health Centre,08 9838 2211,Martin Street,Ravensthorpe,6346,WA,-33.584918,120.045461
+WA,Rockingham General Hospital,South Metropolitan Health Service (WA),Major Cities,201,Public acute group A,Yes,Yes,Yes,Rockingham General Hospital,08 9599 4000,Elanora Drive,Cooloongup,6168,WA,-32.291359,115.770899
+WA,Roebourne Hospital,WA Country Health Service,Remote,10,Very small,No,No,Yes,Roebourne Hospital,08 9182 0200,42-44 Hampton Street,Roebourne,6718,WA,-20.776317,117.143955
+WA,Royal Perth Hospital Wellington Street Campus,East Metropolitan Health Service (WA),Major Cities,563,Principal referral,Yes,Yes,Yes,Royal Perth Hospital Wellington Street Campus,08 9224 2244,Wellington Street,Perth,6000,WA,-31.954242,115.8663
+WA,Selby Authorised Lodge,North Metropolitan Health Service (WA),Major Cities,32,Psychiatric,No,No,No,Selby Authorised Lodge,08 9382 0800,6 Lemnos Street,Shenton Park,6008,WA,-31.958204,115.80199
+WA,Sir Charles Gairdner Hospital,North Metropolitan Health Service (WA),Major Cities,618.4849,Principal referral,Yes,Yes,Yes,Sir Charles Gairdner Hospital,08 6457 3333,Hospital Avenue,Nedlands,6009,WA,-31.968291,115.815467
+WA,Southern Cross Hospital,WA Country Health Service,Remote,4.8,Very small,No,No,Yes,Southern Cross Hospital,08 9081 2222,Coolgardie Road (Great Eastern Highway),Southern Cross,6426,WA,-31.230709,119.337829
+WA,St John of God Midland Hospital,East Metropolitan Health Service (WA),Major Cities,307,Public acute group A,Yes,Yes,Yes,St John of God Midland Public Hospital,08 9462 4000,1 Clayton Street,Midland,6056,WA,-31.894832,116.008852
+WA,State Forensic Mental Health Service,North Metropolitan Health Service (WA),Major Cities,34,Psychiatric,No,No,No,State Forensic Mental Health Service,08 9347 6960,Brockway Road,Mount Claremont,6010,WA,-31.960937,115.788431
+WA,Tom Price Hospital,WA Country Health Service,Very Remote,8,Public acute group D,No,No,Yes,Tom Price Hospital,08 9159 5222,862 Mine Road,Tom Price,6751,WA,-22.695367,117.790271
+WA,Wagin Hospital,WA Country Health Service,Outer Regional,8,Very small,No,No,Yes,Wagin Hospital,08 9861 3444,Warwick Street,Wagin,6315,WA,-33.304662,117.347319
+WA,Warren Hospital,WA Country Health Service,Outer Regional,18,Public acute group C,No,Yes,Yes,Warren Hospital,08 9772 5100,16 Hospital Avenue,Manjimup,6258,WA,-34.240969,116.154112
+WA,Wongan Hills Hospital,WA Country Health Service,Outer Regional,4.6,Public acute group D,No,No,Yes,Wongan Hills Hospital,08 9691 1222,Ackland Street,Wongan Hills,6603,WA,-30.894159,116.724843
+WA,Wyalkatchem-Koorda and Districts Hospital,WA Country Health Service,Outer Regional,2,Very small,No,No,Yes,Wyalkatchem-Koorda and Districts Hospital,08 9692 1222,Honour Avenue,Wyalkatchem,6485,WA,-31.176246,117.386212
+WA,Wyndham Hospital,WA Country Health Service,Very Remote,7,Public acute group D,No,No,Yes,Wyndham Hospital,08 9161 0222,Minderoo Street,Wyndham,6740,WA,-15.477793,128.127772
+WA,York Hospital,WA Country Health Service,Inner Regional,6.7,Very small,No,No,Yes,York Hospital,08 9641 0200,Trews Road,York,6302,WA,-31.894392,116.757416
