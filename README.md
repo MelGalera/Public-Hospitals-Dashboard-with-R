@@ -5,7 +5,7 @@
 
 **Link to the Dashboard**
 
-* *Access the dashboard here:* Australia Public Hospitals Dashboard
+* *Access the dashboard here:* [Australia Public Hospitals Dashboard](http://mmg1217.shinyapps.io/Aus_public_hospitals){:target="_blank"}
 
 
 ***
