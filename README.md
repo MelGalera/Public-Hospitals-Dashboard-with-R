@@ -1,22 +1,74 @@
-# Public-Hospitals-Dashboard-with-R
+# Australia Public Hospitals Dashboard
 
-### Image 1
+***
+#### Description 
 
-![Image 1](images/Image_01_hospital.png)
+**Link to the Dashboard**
 
-### Image 2
+* *Access the dashboard here:* Australia Public Hospitals Dashboard
 
-![Image 2](images/Image_02_hospital.png)
 
-### Image 3
+***
 
-![Image 3](images/Image_03_hospital.png)
+#### Functionality
 
-### Image 4
+**A. Dashboard**
 
-![Image 4](images/Image_04_hospital.png)
+For the selected state/territory (or if Australia is selected) in the sidebar, the dashboard shows:
 
-### Image 5
+* the number of public hospitals, available beds and local health networks
+* distribution of public hospitals based on remoteness and peer groups
+* provided services and available specialized service units with the number of public hospitals providing such services
+* the number of FTE staff by staffing category
 
-![Image 5](images/Image_05_hospital.png)
+
+**B. Mapping**
+
+* Selecting the "Mapping" option in the sidebar lets the user view the map of the selected state/territory or of Australia showing the locations of public hospitals. Options available for selecting remoteness and available beds.
+* Clicking on a public hospital shows details including name of hospital, address and contact number.
+
+
+<br>
+
+
+***Data source***
+
+* The data was sourced from Australian Institute of Health and Welfare (AIHW) webpage, "Hospital resources 2021-2022 data tables", released December 2023 (https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads)
+
+
+
+
+***
+
+#### Preview
+
+<br>
+
+**Dashboard**
+
+![](images/Image_01_hospital.png)
+
+<br>
+
+**Dashboard**
+
+![](images/Image_02_hospital.png)
+
+<br>
+
+**Mapping**
+
+![](images/Image_03_hospital.png)
+
+<br>
+
+**Mapping**
+
+![](images/Image_04_hospital.png)
+
+<br>
+
+**Mapping**
+
+![](images/Image_05_hospital.png)
 
