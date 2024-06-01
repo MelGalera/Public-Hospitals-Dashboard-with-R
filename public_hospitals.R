@@ -17,7 +17,7 @@ library(shinydashboard)
 library(ggrepel)
 library(leaflet)
 
-
+#suppressWarnings({})
 
 ##### Part 1. Data loading and preparation
 
@@ -255,6 +255,7 @@ server <- function(input, output) {
     
     
     remoteness_group_map <- reactive({
+      req(input$selected_rem_mapping)
       if(input$selected_rem_mapping == "All"){
         levels(hospitals$remoteness_group)
       } else
@@ -262,6 +263,7 @@ server <- function(input, output) {
     })
     
     bed_group_map <- reactive({
+      req(input$selected_bedgroup)
       if(input$selected_bedgroup == "Any"){
         levels(hospitals$bed_group)
       } else
@@ -270,17 +272,20 @@ server <- function(input, output) {
     
     
     map_state <- reactive({
+      req(input$selected_state)
       case_when((input$selected_state == "All") ~ "Australia",
              (input$selected_state != "All") ~ input$selected_state)
     })
     
     
     map_remoteness <- reactive({
+      req(input$selected_rem_mapping)
       case_when((input$selected_rem_mapping == "All") ~ "all",
                                 (input$selected_rem_mapping != "All") ~ input$selected_rem_mapping)
     })
     
     map_beds <- reactive({
+      req(input$selected_bedgroup)
       case_when((input$selected_bedgroup) == "Any" ~ "",
                           (input$selected_bedgroup != "Any") ~ paste0("(", input$selected_bedgroup, ")"))
     })
@@ -378,8 +383,10 @@ server <- function(input, output) {
         filter(state %in% state())
       
       
-      remoteness_group <- reactive({
+      remoteness_group2 <- reactive({
+        req(input$selected_rem_beds)
         if(input$selected_rem_beds == "All"){
+          #c("Major Cities", "Regional", "Remote")
           levels(hospitals$remoteness_group)
         } else
           input$selected_rem_beds
@@ -398,7 +405,7 @@ server <- function(input, output) {
       
       
       hosp_state_rem_bed <- hospital_state %>% 
-        filter(remoteness_group %in% remoteness_group()) %>% 
+        filter(remoteness_group %in% remoteness_group2()) %>% 
         group_by(bed_group) %>% 
         summarise(hosp_count = n())
       
@@ -528,7 +535,8 @@ server <- function(input, output) {
       hospital_state <- hospitals %>%
         filter(state %in% state())
       
-      remoteness_group <- reactive({
+      remoteness_group3 <- reactive({
+        req(input$selected_rem_servs)
         if(input$selected_rem_servs == "All"){
           levels(hospitals$remoteness_group)
         } else
@@ -549,7 +557,7 @@ server <- function(input, output) {
       
       # filter the data
       hosp_state_rem_servs <- hospital_state %>% 
-        filter(remoteness_group %in% remoteness_group())
+        filter(remoteness_group %in% remoteness_group3())
       
       num_ed <- hosp_state_rem_servs %>% 
         filter(ed == "Yes") %>% 
