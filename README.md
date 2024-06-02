@@ -1,6 +1,8 @@
 # Australia Public Hospitals Dashboard
 
 ***
+<br>
+
 #### Description 
 
 **Link to the Dashboard**
@@ -9,6 +11,7 @@
 
 
 ***
+<br>
 
 #### Functionality
 
@@ -39,10 +42,9 @@ For the selected state/territory (or if Australia is selected) in the sidebar, t
 
 
 ***
+<br>
 
 #### Preview
-
-<br>
 
 **Dashboard**
 
