@@ -74,3 +74,6 @@ For the selected state/territory (or if Australia is selected) in the sidebar, t
 
 ![](images/Image_05_hospital.png)
 
+<br>
+<br>
+<br>
