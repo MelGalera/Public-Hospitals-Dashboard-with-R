@@ -3,7 +3,7 @@
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
-$header: $conifer !default;
+$header: #151515;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
@@ -52,9 +52,9 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: #004c00;
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed #ffffff; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -64,8 +64,8 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  color: $header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -107,7 +107,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Arial, Arial, Helvetica, sans-serif;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
