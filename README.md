@@ -36,7 +36,7 @@ For the selected state/territory (or if Australia is selected) in the sidebar, t
 
 ***Data source***
 
-* The data was sourced from Australian Institute of Health and Welfare (AIHW) webpage, "Hospital resources 2021-2022 data tables", released December 2023 (https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads)
+* The data was sourced from Australian Institute of Health and Welfare (AIHW) webpage, "Hospital resources 2021-2022 data tables", released December 2023 at [https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads](https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads)
 
 
 
