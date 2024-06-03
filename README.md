@@ -4,16 +4,10 @@
 <br>
 
 <div class = "clear-fix">
-      <img src="assets/images/hospital_img.png" style="float:right;width:400px;"/>
-      <h4> "Description" </h4>
-      <p> "This dashboard shows the public hospitals in Australia"<br></p>
-      <p> **"Link to the Dashboard"**<br></p>
-      <p> *"Access the dashboard here:"* <a href= "https://mmg1217.shinyapps.io/Aus_public_hospitals/ {:target="_blank"}">Australia Public Hospitals Dashboard]</a></p>
-      </div>
-
-      
-#### Description 
-
+  <img src="assets/images/hospital_img.png" style="float:right;width:400px;"/>
+  <h4> Description </h4>
+  <p> This dashboard shows the public hospitals in Australia</p>
+</div>
 
 **Link to the Dashboard**
 
