@@ -3,7 +3,17 @@
 ***
 <br>
 
+<div class = "clear-fix">
+      <img src="assets/images/hospital_img.png" style="float:right;width:400px;"/>
+      <h4> "Description" </h4>
+      <p> "This dashboard shows the public hospitals in Australia"<br></p>
+      <p> **"Link to the Dashboard"**<br></p>
+      <p> *"Access the dashboard here:"* <a href= "https://mmg1217.shinyapps.io/Aus_public_hospitals/ {:target="_blank"}">Australia Public Hospitals Dashboard]</a></p>
+      </div>
+
+      
 #### Description 
+
 
 **Link to the Dashboard**
 
@@ -30,14 +40,12 @@ For the selected state/territory (or if Australia is selected) in the sidebar, t
 * Selecting the "Mapping" option in the sidebar lets the user view the map of the selected state/territory or of Australia showing the locations of public hospitals. Options available for selecting remoteness and available beds.
 * Clicking on a public hospital shows details including name of hospital, address and contact number.
 
-
 <br>
 
 
 ***Data source***
 
 * The data was sourced from Australian Institute of Health and Welfare (AIHW) webpage, "Hospital resources 2021-2022 data tables", released December 2023 at [https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads](https://www.aihw.gov.au/reports-data/myhospitals/content/data-downloads)
-
 
 
 
