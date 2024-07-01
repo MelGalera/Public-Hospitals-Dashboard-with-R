@@ -12,7 +12,7 @@
   <li align= "justify"> Public hospitals - largely owned and managed by state and territory governments with funding from the Australian government. </li>
   </ul>
   <p align= "justify"> Any person with ‘medicard’ can access public hospital services free of charge as a public patient on the basis of clinical need and within a clinically approved period.  Such services can be admitted services, non-admitted services, or emergency department (ED) services.  </p>
-  <p align= "justify"> This dashboard shows relevant information such as the number of beds and available services on recognized and approved public hospitals in Australia. The ‘mapping’ option shows the location and details of the public hospitals with filterable options. The drop-down menu can be used to filter for state or territory.   </p>
+  <p align= "justify"> This dashboard shows relevant information on recognized and approved public hospitals in Australia, such as the number of beds and available services. The ‘mapping’ option shows the location and details of the public hospitals with filterable options. The drop-down menu can be used to filter for state or territory.   </p>
 </div>
 
 **Link to the Dashboard**
