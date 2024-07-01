@@ -4,9 +4,15 @@
 <br>
 
 <div class = "clear-fix">
-  <img src="assets/images/hospital_img.png" style="float:right;width:400px;"/>
+  <img src="assets/images/hospital_img.png" style="float:right;width:400px;margin-left:20px;margin-bottom:15px;"/>
   <h4> Description </h4>
-  <p> This dashboard shows the public hospitals in Australia</p>
+  <p align= "justify" > Hospitals are important in Australia’s health care system providing medical care to millions of Australia every year. There are private and public hospitals in Australia. </p>
+  <ul>
+  <li align= "justify"> Private hospitals - owned and managed by private organizations (some non-profit) and funded by charges to patients often subsidized by government and private health insurance </li>
+  <li align= "justify"> Public hospitals - largely owned and managed by state and territory governments with funding from the Australian government. </li>
+  </ul>
+  <p align= "justify"> Any person with ‘medicard’ can access public hospital services free of charge as a public patient on the basis of clinical need and within a clinically approved period.  Such services can be admitted services, non-admitted services, or emergency department (ED) services.  </p>
+  <p align= "justify"> This dashboard shows relevant information such as the number of beds and available services on recognized and approved public hospitals in Australia. The ‘mapping’ option shows the location and details of the public hospitals with filterable options. The drop-down menu can be used to filter for state or territory.   </p>
 </div>
 
 **Link to the Dashboard**
