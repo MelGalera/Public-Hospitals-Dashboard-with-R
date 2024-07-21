@@ -6,7 +6,7 @@
 <div class = "clear-fix">
   <img src="assets/images/hospital_img.png" style="float:right;width:450px;margin-left:50px;margin-bottom:15px;"/>
   <h4> Description </h4>
-  <p align= "justify" > Hospitals are important in Australia’s health care system providing medical care to millions of Australia every year. There are private and public hospitals in Australia. </p>
+  <p align= "justify" > Hospitals are important in Australia’s healthcare system providing medical care to millions of Australia every year. There are private and public hospitals in Australia. </p>
   <ul>
   <li align= "justify"> Private hospitals - owned and managed by private organizations (some non-profit) and funded by charges to patients often subsidized by government and private health insurance </li>
   <li align= "justify"> Public hospitals - largely owned and managed by state and territory governments with funding from the Australian government. </li>
